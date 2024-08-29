@@ -1,3 +1,8 @@
+---
+title: "Understanding Perspective AI"
+date: "2024-08-01"
+excerpt: "Introducing our new blog where we'll share insights, updates, and more about our journey in AI and technology."
+---
 # Understanding Perspective AI: A Game-Changer in Online Conversations
 
 In today's digital landscape, online conversations can quickly turn toxic, impacting user experiences and community health. Enter Perspective AI, a groundbreaking technology developed by Jigsaw (a unit of Google) in collaboration with machine learning experts and academic researchers. This innovative tool is reshaping how we approach and manage online discussions.
