@@ -1,6 +1,6 @@
 ---
 Title: "How to learn new things"
-Date: 2024-08-29
+Date: "2024-08-29"
 Excerpt: "What's the best way to learn ..."
 ---
 # Understanding Perspective AI: A Game-Changer in Online Conversations
