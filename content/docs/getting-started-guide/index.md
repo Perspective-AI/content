@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Perspective
+title: Getting Started
 ---
 
 # Getting Started with Perspective
