@@ -2,8 +2,6 @@
 title: Getting Started
 ---
 
-# Getting Started with Perspective
-
 Welcome to the getting started guide for Perspective. This section will help you set up and run your first Perspective project.
 
 ## In this section
