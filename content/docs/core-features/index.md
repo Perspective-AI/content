@@ -1,5 +1,5 @@
 ---
-title: Core Features of Perspective
+title: Core Features
 ---
 
 Perspective offers a range of powerful features to help you analyze and visualize your data. In this section, we'll explore the core features that make Perspective stand out.
