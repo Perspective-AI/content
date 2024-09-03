@@ -1,7 +1,10 @@
 ---
 title: "Profile Setup"
+description: "Learn how to use Perspective AI to gather customer feedback efficiently"
 date: "2024-09-03"
+tags: ["getting-started", "feedback", "research outline"]
 nav_order: 1
+nav_display: true
 ---
 
 # Introduction
