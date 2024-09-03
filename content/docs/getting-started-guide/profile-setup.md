@@ -1,24 +1,16 @@
 ---
 title: "Knowledge Document Title"
-author: "Author Name"
 date: "YYYY-MM-DD"
-tags: ["tag1", "tag2", "tag3"]
 ---
 
-import { Callout } from '@/components/Callout'
-import { TableOfContents } from '@/components/TableOfContents'
-
-# {frontmatter.title}
-
-<TableOfContents />
+### Table of Contents
+[Introduction](#Introduction)
 
 ## Introduction
 
-Provide a brief overview of the document's content and purpose.
+This is an introduction.
 
-<Callout type="info">
-  This is an important note or key takeaway.
-</Callout>
+> This is a block quote.
 
 ## Main Content
 
@@ -35,11 +27,12 @@ Content for section 1 goes here. You can use standard Markdown syntax for format
 
 Content for section 2 goes here.
 
-```javascript
-// You can include code blocks
-const example = "This is a code example";
-console.log(example);
-```
+
+> :bulb: **PAY ATTENTION:**
+> is some formatted text in a block quote.
+>
+> ***THIS*** is more formatted text.
+
 
 ### Section 3
 
