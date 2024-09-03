@@ -8,8 +8,6 @@ This is the main documentation page for Perspective. Here you'll find comprehens
 
 ## Quick Links
 
-- [Getting Started](/docs/getting-started)
-- [Core Features](/docs/core-features)
-- [Advanced Topics](/docs/advanced-topics)
+- [Profile Setup](/docs/profile-setup)
 
 We hope you find this documentation helpful. If you have any questions, please don't hesitate to reach out to our support team.
