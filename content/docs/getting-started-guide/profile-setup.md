@@ -18,4 +18,4 @@ Highly personalized interivews have a 3x high completion rate that generic ones.
 
 To upload your avatar navigate to Settings > Profile, then select "Choose file."
 
-Avatars must be 4MB or less.
+> :bulb: **Note:** Avatars must be 4MB or less.
