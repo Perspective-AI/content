@@ -4,8 +4,8 @@ date: "YYYY-MM-DD"
 ---
 
 ### Table of Contents
-- [Introduction](#Introduction)
-- [Conclusion](#Conclusion)
+[Introduction](#Introduction)
+[Conclusion](#Conclusion)
 
 ## Introduction
 
