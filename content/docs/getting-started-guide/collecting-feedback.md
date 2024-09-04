@@ -7,29 +7,35 @@ nav_order: 2
 nav_display: true
 ---
 
-Hey there! Nate from Perspective here. First, I just want to say thanks for signing up for Perspective. It really means a lot to us. In this guide, I'm going to show you how to use Perspective AI to gather feedback.
+## Introduction
+
+Research Outlines in Perspective are used for context building and ensures that Perspective asks the right questions to get you the insights you're looking for. This article covers the following topics:
+
+- Creating Research Outlines
+- Customizing the Interview Experience
+- Inviting Interview Participants
 
 ## Creating a Research Outline
 
-The first step is to create a new research outline. This is crucial for context building and ensures that Perspective asks the right questions to get you the insights you're looking for.
+To create a new research outline, navigate to the Home section. Here you'll either:
 
-1. Head to the home page.
-2. You'll see two options:
-   - Choose a recommended research question
-   - Write your own
+- Write your own research question
+- Select from recommended research questions, which are based on the information in your [personal profile](/getting-started-guide/profile-setup.md).
 
-Let's say you're a product manager wanting to know why customers are churning. You might type an initial research question like: "Why are customers canceling their subscription?"
+After you've selected a recommended research question or written your own, Perspective will launch into an interview experience where it will ask you questions to gain a better understanding of your research context and goals.
 
-## The Interview Process
+At the end of the interivew, you'll have a complete research outline.
 
-Perspective will now interview you to create the research outline. This process usually takes less than 3 minutes and covers:
+> ### The Interview Process
+>
+> The interview process usually takes less than 3 minutes and covers:
+>
+> - The purpose of the research
+> - Who you are and how this research is related to your role
+> - Who you'll be interviewing
+> - Any specific hypotheses you have
+> - Mandatory questions for participants
 
-- The purpose of the research
-- Who you'll be interviewing
-- Any specific hypotheses you have
-- Mandatory questions for participants
-
-At the end, you'll have a complete research outline.
 
 ## Customizing Your Research
 
