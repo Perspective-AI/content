@@ -20,9 +20,9 @@ Research Outlines in Perspective are used for context building and ensures that 
 To create a new research outline, navigate to the Home section. Here you'll either:
 
 - Write your own research question
-- Select from recommended research questions, which are based on the information in your [personal profile](/docs/getting-started-guide/profile-setup.md).
+- Select from recommended research questions, which are based on the information in your [personal profile](/docs/getting-started-guide/profile-setup).
 
-![Research Start Screen](/content/docs/assets/css/research-start-screen.png)
+![Research Start Screen](/assets/research-start-screen.png)
 
 After you've selected a recommended research question or written your own, Perspective will launch into an interview experience where it will ask you questions to gain a better understanding of your research context and goals.
 
