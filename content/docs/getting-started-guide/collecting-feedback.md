@@ -26,7 +26,7 @@ To create a new research outline, navigate to the Home section. Here you'll eith
 - Write your own research question
 - Select from recommended research questions, which are based on the information in your [personal profile](/docs/getting-started-guide/profile-setup).
 
-![Research Start Screen](/images/research-start-screen.png)
+![Research Start Screen](/research-start-screen.png)
 
 After you've selected a recommended research question or written your own, Perspective will launch into an interview experience where it will ask you questions to gain a better understanding of your research context and goals.
 
