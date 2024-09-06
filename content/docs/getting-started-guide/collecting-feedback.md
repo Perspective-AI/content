@@ -11,9 +11,12 @@ nav_display: true
 
 Research Outlines in Perspective are used for context building and ensure that Perspective asks the right questions to get you the insights you're looking for. This article covers the following topics:
 
-- [Creating Research Outlines](#creating-a-research-outline)
-- [Trying the Interview](#trying-the-interview-experience)
+- [Introduction](#introduction)
+- [Creating a Research Outline](#creating-a-research-outline)
+- [Trying the Interview Experience](#trying-the-interview-experience)
 - [Customizing the Interview Experience](#customizing-the-interview-experience)
+  - [Customize Interaction Settings](#customize-interaction-settings)
+  - [Theme Settings](#theme-settings)
 - [Inviting Interview Participants](#inviting-interview-participants)
 
 ## Creating a Research Outline
@@ -23,7 +26,7 @@ To create a new research outline, navigate to the Home section. Here you'll eith
 - Write your own research question
 - Select from recommended research questions, which are based on the information in your [personal profile](/docs/getting-started-guide/profile-setup).
 
-![Research Start Screen](./images/research-start-screen.png)
+![Research Start Screen](/images/research-start-screen.png)
 
 After you've selected a recommended research question or written your own, Perspective will launch into an interview experience where it will ask you questions to gain a better understanding of your research context and goals.
 
