@@ -7,4 +7,4 @@ title: Test Page
 
 ![/images/research-start-screen.png](/images/research-start-screen.png "research start screen")
 
-![./images/research-start-screen.png](./images/research-start-screen.png "start screen")
+[./images/research-start-screen.png](./images/research-start-screen.png "start screen")
