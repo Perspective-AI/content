@@ -1,5 +1,6 @@
 ---
 title: Test Page
+nav_display: false
 ---
 
 ![/public/perspectiveai.png](/perspectiveai.png "relative")
