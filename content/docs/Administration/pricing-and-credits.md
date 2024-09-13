@@ -15,7 +15,7 @@ Like everything in Perspective, we keep our pricing simple. Perspective uses a p
 
 Credits are available in bundles of 250, 1000, and 3500. The more you buy, the lower the cost per credit. The pricing breakdown is as follows:
 
-| Bundle | Cost | Cost per Credit |
+| **Bundle** | **Cost** | **Cost per Credit** |
 | ------ | ---- | --------------- |
 | 250 Credits | $25.00 | $0.100 |
 | 1000 Credits | $99.00 | $0.099 |
