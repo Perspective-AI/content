@@ -1,7 +1,7 @@
 ---
 title: Test Page
 nav_display: true
-date:
+date: 2024-09-16
 ---
 
 ![/public/perspectiveai.png](/perspectiveai.png "relative")
