@@ -14,13 +14,13 @@ Analysis Sessions enable you to quickly extract and share insights, and transfor
 - [Transform Feedback into Content](#transform-feedback-into-content)
 
 
-# How to Conduct an Analysis Session End-to-End
+## How to Conduct an Analysis Session End-to-End
 This two-minute walkthrough demonstrates how to conduct an analysis session end-to-end. If you prefer to read through the steps instead, see below.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pbb0OBtZeck?si=TVOqOEnW2HD6pK8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Step-by-step process of conducting an analysis session
+### Step-by-step process of conducting an analysis session
 1. In the left-hand menu, navigate to "Perspectives."
 2. Open the Perspective that you want to analyze and click "New Analysis Session."
 ![New Analysis Session](/images/analysis-session-start.png)
@@ -33,7 +33,7 @@ This two-minute walkthrough demonstrates how to conduct an analysis session end-
 
 ![Create and share a Highlight](/images/create-highlight.gif)
 
-# Visualize Interview Insights with Charts
+## Visualize Interview Insights with Charts
 Visualizing feedback as a chart is as simple as asking Perspective to make it for you. Here are some examples to get you started:
 * Visualize interview participants' sentiment
 * Show me a distribution of NPS scores
@@ -42,7 +42,7 @@ Visualizing feedback as a chart is as simple as asking Perspective to make it fo
 
 ![Generate Charts](/images/generate-charts.gif)
 
-# Transform Feedback into Content
+## Transform Feedback into Content
 Perspective isn't just for collecting customer feedback on your products and services. You can also use it to collect feedback on content like blog posts, videos, emails, and more. After you've created a research outline and collected interview responses, follow these steps:
 
 * Start a new analysis session
