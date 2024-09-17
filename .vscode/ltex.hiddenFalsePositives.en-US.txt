@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThat being said, as with any LLM-based product, there are few best practices you can follow that will ensure a smooth experience and a high-quality result:\\E$"}
