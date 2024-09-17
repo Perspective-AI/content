@@ -9,9 +9,9 @@ nav_display: true
 
 # Introduction
 Analysis Sessions enable you to quickly extract and share insights, and transform feedback into action, just by using natural language. This article will cover the following topics:
-* How to Conduct an Analysis Session End-to-End
-* Visualize Interview Insights with Charts
-* Transform Feedback into Content
+* [How to Conduct an Analysis Session End-to-End](#how-to-conduct-an-analysis-session-end-to-end)
+* [Visualize Interview Insights with Charts](#visualize-interview-insights-with-charts)
+* [Transform Feedback into Content](#transform-feedback-into-content)
 
 
 # How to Conduct an Analysis Session End-to-End
