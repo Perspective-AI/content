@@ -19,12 +19,12 @@ The process of having Perspective summarize a link is simple: just ask. That bei
 ### 1. Be Clear And Direct
 Instead of saying something like "*I want feedback on this landing page: {link_to_your_landing_page}*, say something like: "*Analyze this landing page, then help me formulate an interview to collect feedback about the content*. In the example below, you can see that Perspective immediately understood the task at hand and got to work:
 
-
+![Be Clear And Direct](/images/link-summary-best-practice)
 
 ### 2. If At First You Don't Succeed, Follow Up
 Sometimes (we hope *very* rarely), Perspective doesn't quite understand the intent behind your question. If that happens, like in the example below, tell Perspective very clearly to first summarize the linked content before moving on. Saying something like, "*Summarize the content I linked before moving on*" works great.
 
-
+![Follow Up When Needed](/images/link-summary-best-practices-2.png)
 
 # Wrap Up
 Having Perspective summarize content is very useful for content review and approval use cases. Link summaries add context to your research, which ensures Perspective asks highly relevant questions and generates useful insights. To have Perspective summarize linked content for you, all you have to do is ask.
