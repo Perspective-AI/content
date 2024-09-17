@@ -17,6 +17,7 @@ Analysis Sessions enable you to quickly extract and share insights, and transfor
 # How to Conduct an Analysis Session End-to-End
 This two-minute walkthrough demonstrates how to conduct an analysis session end-to-end. If you prefer to read through the steps instead, see below.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pbb0OBtZeck?si=TVOqOEnW2HD6pK8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Step-by-step process of conducting an analysis session
@@ -52,7 +53,9 @@ Perspective isn't just for collecting customer feedback on your products and ser
 
 Here's a 5-minute video demonstrating how we use Perspective to collect feedback and make improvements to our YouTube videos:
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cPyUe_sMQGE?si=C5GWF0VED_jyDl01" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # Wrapping Up
 As you can see, analysis sessions are much more than just a simple way to analyze feedback. Whether you want to generate charts and action plans, incorporate feedback into video scripts and blog posts, or just want a simple summary of the research findings, Perspective Analysis Sessions can do it all for you in a snap.
