@@ -36,3 +36,6 @@ Are you ready to join us in revolutionizing feedback? Let's make every voice cou
 
 Warm regards,
 Guy Nirpaz Founder, Perspective
+
+
+ 
