@@ -82,19 +82,22 @@ Once your team member has accepted the email invite, they'll have access to the 
 | 25 | Remove Owned Highlights (Other's Perspectives) | Yes | Yes |
 | 26 | Remove Other's Highlights (Owned Perspectives) | Yes | Yes |
 | 27 | Remove Other's Highlights (Other's Perspectives) | Yes | Yes |
+| 28 | Share Owned Highlights (Owned Perspectives) | Yes | Yes |
+| 29 | Share Owned Highlights (Other's Perspectives) | Yes | Yes |
+| 30 | Share Other's Highlights (Owned Perspectives) | Yes | Yes |
+| 31 | Share Other's Highlights (Other's Perspectives) | Yes | Yes |
 
 ### Workspace Permissions
 
 | # | Action | Workspace Member | Workspace Owner |
 | :---: |:--- | :---: | :---: |
-| 1 | Share Owned Highlights | Yes | Yes |
-| 2 | Share Other's Highlights | Yes | Yes |
-| 3 | Manage Profile | Yes | Yes |
-| 4 | Add Workspace Members | No | Yes |
-| 5 | Remove Workspace Members | No | Yes |
-| 6 | Manage Billing | No | Yes |
-| 7 | Purchase Credits | No | Yes |
-| 8 | Manage Workspace Account Settings | No | Yes |
+
+| 1 | Manage Profile | Yes | Yes |
+| 2 | Add Workspace Members | No | Yes |
+| 3 | Remove Workspace Members | No | Yes |
+| 4 | Manage Billing | No | Yes |
+| 5 | Purchase Credits | No | Yes |
+| 6 | Manage Workspace Account Settings | No | Yes |
 
 ## Wrap Up
 
