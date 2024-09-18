@@ -1,6 +1,6 @@
 ---
 title: "Introducing Persective: Making Feedback Easy, Fast, and Enjoyable"
-date: "2024-09-15"
+date: "2024-09-09"
 excerpt: "Whether you're developing a product, refining a service, or simply trying to improve your performance, quality feedback is the cornerstone of progress..."
 ---
 
