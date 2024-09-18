@@ -4,7 +4,6 @@ date: "2024-09-15"
 excerpt: "Whether you're developing a product, refining a service, or simply trying to improve your performance, quality feedback is the cornerstone of progress..."
 ---
 
-# Introducing Perspective: Making Feedback Easy, Fast, and Enjoyable
 Hey everyone,
 
 I'd like to share something exciting with you. While we're still technically pre-launch, we're officially opening Perspective for everyone to try, and I couldn't be more thrilled about the problem we're tackling and the potential impact we can make together.
