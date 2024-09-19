@@ -1,5 +1,5 @@
 ---
-title: "How to Conduct Effective Analysis Sessions"
+title: "Conduct Analysis Sessions"
 description: "Learn how to quickly extract and share insights from interviews"
 date: "2023-09-16"
 tags: ["getting-started", "analysis session"]
