@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Perspective
+title: Administration
 date: 2024-09-03
 nav_order: 1
 ---
