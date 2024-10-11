@@ -91,7 +91,6 @@ Once your team member has accepted the email invite, they'll have access to the 
 
 | # | Action | Workspace Member | Workspace Owner |
 | :---: |:--- | :---: | :---: |
-
 | 1 | Manage Profile | Yes | Yes |
 | 2 | Add Workspace Members | No | Yes |
 | 3 | Remove Workspace Members | No | Yes |
