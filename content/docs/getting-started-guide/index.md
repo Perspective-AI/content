@@ -4,10 +4,13 @@ date: 2024-09-03
 nav_order: 1
 ---
 
-Welcome to the getting started guide for Perspective. This section will help you set up and run your first Perspective project.
+Welcome to the Perspective Quick Start Guide. This section will help you set and get the most our of your first research project.
 
 ## In this section
 
 - [Profile Setup](/docs/getting-started/profile-setup.md)
+- [How to Create Research Outlines](/docs/getting-started/collecting-feedback.md)
+- [How to Analyze Interviews](/docs/getting-started/analysis-sessions.md)
+
 
 Choose a topic to begin your journey with Perspective!
