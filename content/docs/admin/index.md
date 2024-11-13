@@ -9,5 +9,5 @@ Make Perspective work best for you by adjusting the settings for your Personal o
 
 ## In this section
 
-- [Pricing and Credits](/docs/administration/pricing-and-credits)
+- [Pricing and Credits](/docs/admin/pricing-and-credits)
 
