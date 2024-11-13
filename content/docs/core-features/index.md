@@ -3,12 +3,11 @@ title: Core Features
 nav_order: 2
 ---
 
-Perspective offers a range of powerful features to help you analyze and visualize your data. In this section, we'll explore the core features that make Perspective stand out.
+Perspective offers a range of powerful features to help you analyze and take action on feedback. In this section, we'll explore the core features that make Perspective stand out.
 
 ## Key Features
 
-- [Data Analysis](/docs/core-features/data-analysis)
-- [Visualization](/docs/core-features/visualization)
-- [Real-time Updates](/docs/core-features/real-time-updates)
+- [How to use link summaries](/docs/core-features/link-summaries)
+- [Create and manage workspaces](/docs/core-features/workspaces)
 
-Explore each feature to learn how Perspective can transform your data workflow.
+Explore each feature to learn how Perspective can transform your the way your business leverages feedback.
