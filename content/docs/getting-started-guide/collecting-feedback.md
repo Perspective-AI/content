@@ -3,7 +3,7 @@ title: "Creating Research Outlines"
 description: "Learn how to use Perspective AI to gather customer feedback efficiently"
 date: "2023-09-13"
 tags: ["getting-started", "feedback", "research outline"]
-nav_order: 1
+nav_order: 2
 nav_display: true
 ---
 

@@ -3,7 +3,7 @@ title: "Conduct Analysis Sessions"
 description: "Learn how to quickly extract and share insights from interviews"
 date: "2023-09-16"
 tags: ["getting-started", "analysis session"]
-nav_order: 2
+nav_order: 3
 nav_display: true
 ---
 
