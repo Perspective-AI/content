@@ -26,7 +26,7 @@ To create a new conversation outline, navigate to the Home section. Here you'll 
 - Write your own research question
 - Start from a template
 
-![Research Start Screen](/images/conversation-start-screen.png)
+![Conversation Guide Start Screen](/images/conversation-start-screen.png)
 
 After you've selected a template or written your own conversation topic, Perspective will launch into an conversation experience where it will ask you questions to gain a better understanding of your goals.
 
