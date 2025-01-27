@@ -1,5 +1,5 @@
 ---
-title: "Creating Conversation Outlines"
+title: "Creating Conversation Guides"
 description: "Learn how to create conversation guides in Perspective AI"
 date: "2023-09-13"
 tags: ["getting-started", "feedback", "conversation guide"]
