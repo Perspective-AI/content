@@ -1,5 +1,5 @@
 ---
-title: "Product Updates"
+title: "Product Updates - Jan 28"
 date: "2025-28-01"
 excerpt: "Introducing Customer Clarity"
 ---
