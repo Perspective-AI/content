@@ -5,19 +5,18 @@ excerpt: "Jan 28, 2025 - Introducing Customer Clarity"
 ---
 We've been busy, getting the product and the website ready for the launch day. 
 
-New Website: Introducing Customer Clarity 
+## What's New?
 
-Redesigned website centered around Customer Clarity - helping teams understand what drives customer decisions
-Added practical use-case templates for:
+### New Website: Introducing Customer Clarity 
 
-Sales teams: Uncover customer motivations and needs
-Customer Success: Track satisfaction and predict churn
-Product teams: Gather actionable feedback for roadmap planning
+- Redesigned website centered around Customer Clarity - helping teams understand what drives customer decisions
+- Added practical use-case templates for:
+  - Sales teams: Uncover customer motivations and needs
+  -  Customer Success: Track satisfaction and predict churn
+  -  Product teams: Gather actionable feedback for roadmap planning
+- Fresh visuals and clearer messaging showing how teams achieve customer understanding through scalable conversations
 
-
-Fresh visuals and clearer messaging showing how teams achieve customer understanding through scalable conversations
-
-New Pricing Tiers
+### New Pricing Tiers
 Based on your feedback, we've introduced more flexible options:
 Pro Plan
 
