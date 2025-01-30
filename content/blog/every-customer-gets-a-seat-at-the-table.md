@@ -8,7 +8,6 @@ excerpt: "we're thrilled to announce our public launch and our seed funding toda
 I think we all agree: the best way to understand someone is to have a real conversation with them.
 
 That's why we're thrilled to announce our public launch and our seed funding today. But more importantly, we want to tell you why we exist: to introduce Customer Clarity - imagine understanding exactly what your customers think, need, and value.
-
 [![Perspective AI](https://getperspective.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-image.56cce4ba.png&w=3840&q=75)](https://getperspective.ai/about)
 
 ## Let's Talk About Understanding (and Growth)
@@ -29,6 +28,7 @@ When you truly understand your customers, you stop guessing and start growing:
 
 - And when everyone has Customer Clarity? Magic happens. Product builds what sales can't wait to sell. Sales promises what delivery loves to implement. Customer success drives insights that product turns into the next big hit. It's a virtuous cycle where every team builds on each other's success - all because everyone truly understands what customers need.
 
+
 ## Bringing Every Voice to the Table
 
 Traditionally, companies have relied on deep conversations with their closest customers and executives, supplemented by surveys and feedback forms for broader reach. While these conversations are invaluable, scaling this level of understanding across your entire customer base has been impossible.
@@ -46,6 +46,9 @@ Here's how it works:
 - True Customer Understanding: These conversations give you the full picture - not just what customers think, but why they think it
 - Customer Clarity: With this deep understanding, you make decisions with confidence, not hope
 
+<iframe src="https://player.vimeo.com/video/1048033195?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Get True Customer Understanding with Perspective AI"></iframe>
+
+
 ## What's Next
 
 Today's launch and funding announcement means we can help more businesses transform customer conversations into growth. No more guessing. No more hoping. Just clear understanding that leads to confident decisions and better business outcomes.
@@ -54,6 +57,5 @@ Want to see what real customer conversations can do for your business? Let's tal
 
 ---
 
-Ready to understand your customers better? Schedule a conversation with us today.
+Ready to understand your customers better? [Start having conversations with them now](https://getperspective.ai/research).
 
-<iframe src="https://player.vimeo.com/video/1048033195?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Get True Customer Understanding with Perspective AI"></iframe>
