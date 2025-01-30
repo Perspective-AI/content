@@ -11,7 +11,7 @@ nav_display: true
 
 Like everything in Perspective, we keep our pricing simple. Perspective uses a pay-as-you-go model where you purchase bundles of credits up front and then those credits are consumed as people participate in your interviews. Today, there are no monthly subscription fees or contracts. You pay for what you use and that's it.
 
-# Credit Bundles
+## Credit Bundles
 
 Credits are available in bundles of 250, 1000, and 3500. The more you buy, the lower the cost per credit. The pricing breakdown is as follows:
 
@@ -21,6 +21,6 @@ Credits are available in bundles of 250, 1000, and 3500. The more you buy, the l
 | 1000 Credits | $99.00 | $0.099 |
 | 3500 Credits | $299.00 | $0.085 |
 
-# How Credits are Consumed
+## How Credits are Consumed
 
 Credits are consumed only when someone completes an interview. 1 interview consumes 1 credit. If a participant begins an interview but does not finish, no credits are consumed.
