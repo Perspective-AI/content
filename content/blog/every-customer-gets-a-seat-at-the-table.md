@@ -9,6 +9,8 @@ I think we all agree: the best way to understand someone is to have a real conve
 
 That's why we're thrilled to announce our public launch and our seed funding today. But more importantly, we want to tell you why we exist: to introduce Customer Clarity - imagine understanding exactly what your customers think, need, and value.
 
+[![Perspective AI](https://getperspective.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-image.56cce4ba.png&w=3840&q=75)](https://getperspective.ai/about)
+
 ## Let's Talk About Understanding (and Growth)
 
 We all know the gap between what we think customers want and what they actually need. The endless meetings. The competing priorities. The second-guessing. We've all been there.
