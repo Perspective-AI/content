@@ -1,9 +1,8 @@
 ---
 title: "Finally: Every Customer Gets a Seat at the Table"
 date: "2025-01-30"
+excerpt: "we're thrilled to announce our public launch and our seed funding today. But more importantly, we want to tell you why we exist: to introduce Customer Clarity"
 ---
-
-# Finally: Every Customer Gets a Seat at the Table
 
 I think we all agree: the best way to understand someone is to have a real conversation with them.
 
