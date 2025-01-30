@@ -53,9 +53,8 @@ Here's how it works:
 
 Today's launch and funding announcement means we can help more businesses transform customer conversations into growth. No more guessing. No more hoping. Just clear understanding that leads to confident decisions and better business outcomes.
 
-Want to see what real customer conversations can do for your business? Let's talk.
+Want to see what real customer conversations can do for your business? [Let's talk](https://getperspective.ai/contact).
 
 ---
 
-Ready to understand your customers better? [Start having conversations with them now](https://getperspective.ai/research).
-
+Ready to understand your customers better? [Start customer conversations now](https://getperspective.ai/research).
