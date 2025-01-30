@@ -1,5 +1,5 @@
 ---
-title: "Product Updates: December 11, 2024 - Enhanced Analysis Tools and Improved Conversation Guide Experience"
+title: "Product Update: December 11, 2024
 date: "2024-12-11"
 excerpt: "December 11, 2024 - Enhanced Analysis Tools and Improved Conversation Guide Experience"
 ---
