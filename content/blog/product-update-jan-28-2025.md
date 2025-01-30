@@ -1,6 +1,6 @@
 ---
 title: "Product Updates - Jan 28"
-date: "2025-28-01"
+date: "2025-01-28"
 excerpt: "Introducing Customer Clarity"
 ---
 We've been busy, getting the product and the website ready for the launch day. 
