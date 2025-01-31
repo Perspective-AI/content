@@ -4,7 +4,7 @@ description: "Learn how credits work"
 date: 
 tags: ["admin"]
 nav_order: 
-nav_display: 
+nav_display: false
 ---
 
 # Introduction
