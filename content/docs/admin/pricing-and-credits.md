@@ -3,8 +3,8 @@ title: "Pricing and Credits"
 description: "Learn how credits work"
 date: "2023-08-30"
 tags: ["admin"]
-nav_order: 1
-nav_display: true
+nav_order: 
+nav_display: 
 ---
 
 # Introduction
