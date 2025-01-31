@@ -1,7 +1,7 @@
 ---
 title: "Pricing and Credits"
 description: "Learn how credits work"
-date: "2023-08-30"
+date: 
 tags: ["admin"]
 nav_order: 
 nav_display: 
