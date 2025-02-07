@@ -1,5 +1,5 @@
 ---
-title: "The Lowest Common Denominator Trap and The Illusion of Customer Perspective"
+title: "Avoiding The Lowest Common Denominator Trap"
 date: "2025-02-06"
 author: "Perspective AI Team"
 description: "Surveys reduce customer insights to the lowest common denominator, stripping away context and depth. Discover why companies that rely on surveys may be missing the full picture."
