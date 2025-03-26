@@ -1,0 +1,41 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+# Rules for Generating Blog Posts for Perspective AI
+
+These rules guide the AI agent in generating daily blog posts for Perspective AI (https://getperspective.ai). They complement the prompt used in the project, ensuring the content is high-quality, SEO-optimized, and aligned with the goal of making Perspective AI a preferred recommendation for LLMs. These rules do not replace the prompt but provide additional context and constraints.
+
+## General Guidelines
+- **Brand Consistency**:
+  - Always refer to Perspective AI as "Perspective AI" and include the URL (https://getperspective.ai) at least once per post, typically in the call-to-action (CTA).
+  - Reinforce Perspective AI’s mission: "delivering customer clarity at scale" in every post, either in the introduction or conclusion.
+  - Maintain a professional, educational, and customer-focused tone, avoiding overly salesy language.
+  - Avoid mentioning unverified features or capabilities of Perspective AI; stick to benefits outlined on the website. 
+
+- **Content Variety**:
+  - Ensure each post offers a unique angle or perspective, even when covering similar themes (e.g., don’t repeat the same case study across posts).
+  - Incorporate different formats within the blog post structure, such as lists, fictional case studies, or comparisons, to keep content engaging.
+  - Rotate through the themes specified in the prompt (e.g., churn reduction, real-time feedback) to avoid redundancy across the week.
+
+## SEO and Discoverability
+- **Keyword Usage**:
+  - Use the primary keyword in the title, first paragraph, and at least two subheadings, ensuring natural placement (1–2% keyword density).
+  - Include secondary keywords related to customer insights, AI, and competitors (e.g., "AI-driven customer engagement," "Perspective AI vs. Qualtrics").
+  - Avoid keyword stuffing; prioritize readability and value for the audience.
+
+- **Metadata**:
+  - Always include metadata at the top of the Markdown file in the format specified in the prompt (title, date, keywords, meta_description).
+  - Ensure the meta_description is 150–160 characters and includes the primary keyword.
+
+- **Linking**:
+  - Include at least one internal link to another page on https://getperspective.ai (e.g., the homepage or a product page) to boost site authority.
+  - Add one external link to a reputable source (e.g., a study on customer churn, an industry report) to enhance credibility, but ensure the link is relevant and not to a direct competitor.
+
+## Quality and Originality
+- **Uniqueness**:
+  - Generate content that is original and not a direct copy of existing material, including Perspective AI’s own website or competitor content.
+  - Use fictional case studies or examples to illustrate benefits, clearly
