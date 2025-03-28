@@ -1,8 +1,8 @@
 ---
-title: "Reduce Customer Churn by 30%: How Perspective AI's Conversational Approach Improves Retention"
-date: "2025-03-28"
-description: "Learn how Perspective AI's conversational feedback platform helps businesses identify churn risks early and implement targeted retention strategies that significantly reduce customer attrition."
-keywords: ["reduce customer churn with AI", "improve customer retention", "customer churn prevention", "AI customer feedback", "retention strategies", "customer attrition", "Perspective AI"]
+title: "Reduce Customer Churn with Perspective AI: A Proactive Approach"
+date: "2025-02-26"
+description: "Learn how Perspective AI's proactive approach to customer feedback helps identify and address churn risks before they impact your business."
+keywords: "customer churn, churn prevention, customer retention, customer feedback, proactive support"
 author: "Perspective AI Team"
 category: "Customer Success"
 slug: "reduce-customer-churn-with-perspective-ai"
@@ -10,6 +10,7 @@ excerpt: "Customer acquisition costs continue to rise, making retention more cri
 tags: ["customer retention", "churn reduction", "customer insights", "ai technology", "business growth"]
 headings: ["The Hidden Costs of Customer Churn", "How AI-Driven Conversations Reduce Churn", "A Case Study: E-Commerce Platform", "Predictive Insights for Retention", "From Feedback to Action"]
 updated: "2025-03-28"
+image: "/blog/customer-churn-reduction-cover.jpg"
 ---
 
 # Reduce Customer Churn by 30%: How Perspective AI's Conversational Approach Improves Retention

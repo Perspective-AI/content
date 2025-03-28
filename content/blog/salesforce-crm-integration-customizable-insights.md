@@ -1,10 +1,11 @@
 ---
-title: "Seamless Integration: How Perspective AI Enhances Salesforce and Other CRMs with Customizable Customer Insights"
-date: "2025-03-31"
-description: "Learn how Perspective AI's integration capabilities enhance CRM platforms like Salesforce with rich conversational insights, creating a more complete view of customer needs and experiences."
-keywords: ["Perspective AI Salesforce integration", "customizable customer insights", "CRM enhancement", "customer data integration", "Salesforce customer feedback", "conversational insights", "customer intelligence"]
+title: "Salesforce CRM Integration: Customizable Insights for Better Customer Understanding"
+date: "2025-03-15"
 author: "Perspective AI Team"
-category: "Product Insights"
+description: "Learn how Perspective AI's Salesforce CRM integration delivers customizable customer insights directly where your team works."
+keywords: "Salesforce integration, CRM insights, customer understanding, workflow integration, customer data"
+category: "Product Features"
+image: "/blog/salesforce-integration-cover.jpg"
 slug: "salesforce-crm-integration-customizable-insights"
 excerpt: "CRM platforms like Salesforce excel at tracking transactions but often miss the 'why' behind customer decisions. Discover how Perspective AI's seamless integration capabilities enhance your CRM with rich conversational insights for a complete customer view."
 tags: ["crm integration", "salesforce", "customer data", "ai technology", "business intelligence", "integrations"]
