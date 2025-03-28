@@ -1,3 +1,12 @@
+---
+title: "How to Use Perspective AI to Collect Customer Testimonials for VCs"
+description: "How to Use Perspective AI to Collect Customer Testimonials for VCs"
+date: "2025-03-28"
+tags: []
+nav_order: 1
+nav_display: true
+---
+
 # 🔧 How to Use Perspective AI to Collect Customer Testimonials for VCs
 
 VCs want proof. They want to hear from real customers—not just you. But reference calls are a pain to schedule, and written quotes often lack depth. That’s where Perspective AI comes in.
