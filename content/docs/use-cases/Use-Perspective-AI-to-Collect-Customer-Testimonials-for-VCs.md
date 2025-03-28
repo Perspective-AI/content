@@ -17,7 +17,7 @@ Here’s exactly how to do it 👇
 
 ---
 
-## 🧭 Step 1: Create Your Free Perspective AI Account
+## Create Your Free Perspective AI Account
 
 1. Go to [perspective.ai](https://perspective.ai).
 2. Click **“Get Started Free.”**
@@ -27,7 +27,7 @@ Here’s exactly how to do it 👇
 
 ---
 
-## 📝 Step 2: Create a New AI Conversation
+## Create a New AI Conversation
 
 1. Click **“Create New Conversation.”**
 2. Name your conversation something like:  
@@ -43,7 +43,7 @@ Here’s exactly how to do it 👇
 
 ---
 
-## 🧠 Step 3: Review and Customize the Conversation Guide
+## Review and Customize the Conversation Guide
 
 Perspective AI will auto-generate a personalized conversation guide based on what you’ve shared.
 
@@ -62,7 +62,7 @@ When it looks good—click **“Start Interview.”**
 
 ---
 
-## ✉️ Step 4: Invite Your Customers
+## Invite Your Customers
 
 You’ve got two options:
 - Share a **unique link** via email or message
@@ -78,7 +78,7 @@ Your customers will:
 
 ---
 
-## 🔍 Step 5: Analyze and Highlight the Best Insights
+## Analyze and Highlight the Best Insights
 
 Once interviews are complete, go to your dashboard:
 
@@ -96,7 +96,7 @@ Perspective will organize them into a shareable table in seconds.
 
 ---
 
-## 📦 Step 6: Share With VCs
+## Share With VCs
 
 You’ve now got:
 - Full interviews  
@@ -114,7 +114,7 @@ Choose how you want to share:
 
 ---
 
-## 🆚 Why This Beats Traditional Methods
+## Why This Beats Traditional Methods
 
 | Old Way                   | Perspective AI                          |
 |--------------------------|------------------------------------------|
@@ -125,7 +125,7 @@ Choose how you want to share:
 
 ---
 
-## ⚠️ FAQs
+## FAQs
 
 **Q: Will this feel robotic to my customers?**  
 Nope. Conversations are warm, casual, and tailored to sound like you. You can even give Perspective a short personal bio for better tone.
@@ -138,7 +138,7 @@ Most teams get meaningful insights within 24 hours. Some within a few hours.
 
 ---
 
-## 🚀 TL;DR — Here’s Your Checklist
+## TL;DR — Here’s Your Checklist
 
 - ✅ Create your account at [Perspective.ai](https://perspective.ai)  
 - ✅ Set up your AI interview with VC goals in mind  
@@ -148,7 +148,7 @@ Most teams get meaningful insights within 24 hours. Some within a few hours.
 
 ---
 
-## 🔁 What Happens Next
+## What Happens Next
 
 You’ve just turned feedback into firepower.  
 Instead of telling VCs how loved your startup is—you showed them.
