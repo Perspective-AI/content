@@ -4,6 +4,7 @@ subtitle: "Announcing public launch and seed funding"
 date: "2025-01-30"
 excerpt: "we're thrilled to announce our public launch and our seed funding today. But more importantly, we want to tell you why we exist: to introduce Customer Clarity"
 slug: "customer-clarity"
+image: "https://getperspective.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-image.56cce4ba.png&w=3840&q=75"
 ---
 
 I think we all agree: the best way to understand someone is to have a real conversation with them.
