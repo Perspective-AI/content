@@ -10,7 +10,7 @@ excerpt: "Customer acquisition costs continue to rise, making retention more cri
 tags: ["customer retention", "churn reduction", "customer insights", "ai technology", "business growth"]
 headings: ["The Hidden Costs of Customer Churn", "How AI-Driven Conversations Reduce Churn", "A Case Study: E-Commerce Platform", "Predictive Insights for Retention", "From Feedback to Action"]
 updated: "2025-03-28"
-image: "/images/customer-churn-reduction-cover.jpeg"
+image: "/images/blog/customer-churn-reduction-cover.jpeg"
 ---
 
 # Reduce Customer Churn by 30%: How Perspective AI's Conversational Approach Improves Retention

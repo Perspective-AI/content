@@ -10,7 +10,7 @@ excerpt: "Traditional feedback methods are giving way to AI-driven conversations
 tags: ["customer engagement", "ai technology", "industry trends", "customer insights", "feedback innovation"]
 headings: ["The Limitations of Traditional Feedback Approaches", "Understanding Conversational AI in Customer Insights", "A Case Study: Healthcare Provider", "Customer Insights Education: Key Principles", "The Future of Customer Engagement"]
 updated: "2025-03-29"
-image: "/blog/customer-engagement-evolution-cover.jpeg"
+image: "/images/blog/customer-engagement-evolution-cover.jpeg"
 ---
 
 # The Evolution of Customer Engagement: Why AI-Driven Conversations Are Replacing Traditional Feedback Methods
