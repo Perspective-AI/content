@@ -5,7 +5,7 @@ author: "Perspective AI Team"
 description: "Discover how real-time customer feedback analysis can transform your customer success strategy and help you address issues before they impact customer satisfaction."
 keywords: "customer feedback, real-time analysis, customer success, customer satisfaction, proactive support"
 category: "Customer Success"
-image: "/images/blog/customer-feedback-analysis-cover.jpg"
+image: "/images/blog/customer-feedback-analysis-cover.jpeg"
 slug: "real-time-customer-feedback-analysis"
 excerpt: "Traditional feedback systems create weeks of delay between customer issues and action. Learn how Perspective AI's real-time analysis capabilities provide immediate insights, allowing businesses to respond to customer needs faster than ever before."
 tags: ["customer feedback", "ai technology", "real-time analytics", "customer experience", "business intelligence"]
