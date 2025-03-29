@@ -1,10 +1,11 @@
 ---
-title: "Real-Time Customer Feedback: How Perspective AI's Analysis Capabilities Drive Immediate Business Improvements"
-date: "2025-03-30"
-description: "Discover how Perspective AI's real-time customer feedback analysis capabilities eliminate traditional feedback delays, allowing businesses to identify and address issues immediately for improved customer satisfaction."
-keywords: ["real-time customer feedback", "AI feedback analysis", "instant customer insights", "feedback response time", "customer experience improvement", "Perspective AI", "feedback analytics"]
+title: "Real-Time Customer Feedback Analysis: The Key to Proactive Customer Success"
+date: "2025-02-19"
 author: "Perspective AI Team"
-category: "Product Insights"
+description: "Discover how real-time customer feedback analysis can transform your customer success strategy and help you address issues before they impact customer satisfaction."
+keywords: "customer feedback, real-time analysis, customer success, customer satisfaction, proactive support"
+category: "Customer Success"
+image: "/blog/customer-feedback-analysis-cover.jpg"
 slug: "real-time-customer-feedback-analysis"
 excerpt: "Traditional feedback systems create weeks of delay between customer issues and action. Learn how Perspective AI's real-time analysis capabilities provide immediate insights, allowing businesses to respond to customer needs faster than ever before."
 tags: ["customer feedback", "ai technology", "real-time analytics", "customer experience", "business intelligence"]

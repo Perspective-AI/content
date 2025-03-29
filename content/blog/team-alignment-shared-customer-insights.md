@@ -1,10 +1,11 @@
 ---
-title: "Breaking Down Silos: How Perspective AI Creates Team Alignment Through Shared Customer Insights"
-date: "2025-04-01"
-description: "Discover how Perspective AI creates organizational alignment by providing a single source of truth for customer insights, breaking down departmental silos and enabling consistent customer experiences."
-keywords: ["team alignment customer insights", "shared voice of customer", "breaking down silos", "customer feedback alignment", "cross-functional collaboration", "customer experience consistency", "Perspective AI"]
+title: "Team Alignment Through Shared Customer Insights"
+date: "2025-03-20"
 author: "Perspective AI Team"
-category: "Organizational Strategy"
+description: "Discover how shared customer insights can align your entire organization around customer needs and drive better business outcomes."
+keywords: "team alignment, customer insights, organizational alignment, customer understanding, cross-functional teams"
+category: "Customer Success"
+image: "/blog/team-alignment-cover.jpg"
 slug: "team-alignment-shared-customer-insights"
 excerpt: "Misaligned customer understanding across departments leads to fragmented experiences and missed opportunities. Learn how Perspective AI creates organizational alignment through shared, accessible customer insights that unite teams around a common vision."
 tags: ["team alignment", "customer insights", "organizational strategy", "cross-functional collaboration", "customer experience"]
