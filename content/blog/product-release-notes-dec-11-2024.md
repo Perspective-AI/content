@@ -5,7 +5,6 @@ author: "Perspective AI Team"
 description: "Explore the latest features and improvements in Perspective AI's December 2024 release, including enhanced analytics and integration capabilities."
 keywords: "product updates, new features, Perspective AI, customer insights, product development"
 category: "Product Updates"
-image: "/blog/product-update-cover.jpg"
 excerpt: "December 11, 2024 - Enhanced Analysis Tools and Improved Conversation Guide Experience"
 ---
 
