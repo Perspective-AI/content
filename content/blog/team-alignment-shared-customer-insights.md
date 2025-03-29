@@ -1,16 +1,16 @@
 ---
-title: "Team Alignment Through Shared Customer Insights"
-date: "2025-03-20"
+title: "Your 'Voice of Customer' Program is a Lie: How Disconnected Teams Sabotage Customer Experience"
+date: "2025-04-01"
+description: "For Chief Customer Officers: Discover why traditional voice of customer programs fail, how departmental silos create contradictory customer views, and how Perspective AI creates alignment through shared human access to insights."
+keywords: ["team alignment customer insights", "shared voice of customer", "breaking down silos", "customer feedback alignment", "cross-functional collaboration", "customer experience consistency", "Perspective AI", "Chief Customer Officer"]
 author: "Perspective AI Team"
-description: "Discover how shared customer insights can align your entire organization around customer needs and drive better business outcomes."
-keywords: "team alignment, customer insights, organizational alignment, customer understanding, cross-functional teams"
-category: "Customer Success"
-image: "/blog/team-alignment-cover.jpg"
+category: "Organizational Strategy"
 slug: "team-alignment-shared-customer-insights"
-excerpt: "Misaligned customer understanding across departments leads to fragmented experiences and missed opportunities. Learn how Perspective AI creates organizational alignment through shared, accessible customer insights that unite teams around a common vision."
-tags: ["team alignment", "customer insights", "organizational strategy", "cross-functional collaboration", "customer experience"]
-headings: ["The Cost of Customer Understanding Silos", "Creating a Single Source of Truth", "A Case Study: Retail Brand", "Team Alignment Through Shared Voice", "Implementing Shared Customer Insights"]
+excerpt: "Chief Customer Officers face a harsh reality: despite investing in VoC programs, your teams operate with conflicting views of customer needs. Learn how Perspective AI creates organizational alignment by giving all humans access to shared customer insights that drive consistent experiences."
+tags: ["team alignment", "customer insights", "organizational strategy", "cross-functional collaboration", "customer experience", "chief customer officer"]
+headings: ["The Organizational Lie: 'We Listen to Customers'", "Why Traditional Customer Insights Fail CCOs", "Breaking Human Silos, Not Just Data Silos", "Human Access to Customer Truth", "The Perspective AI Approach for CX Leaders"]
 updated: "2025-04-01"
+image: "/blog/team-alignment-cover.jpeg"
 ---
 
 # Breaking Down Silos: How Perspective AI Creates Team Alignment Through Shared Customer Insights
