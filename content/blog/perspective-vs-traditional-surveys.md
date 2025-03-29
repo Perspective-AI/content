@@ -5,7 +5,7 @@ author: "Perspective AI Team"
 description: "Compare how Perspective AI's conversational approach outperforms traditional surveys in gathering meaningful customer insights."
 keywords: "customer feedback, surveys, AI technology, customer insights, feedback methods"
 category: "Product Insights"
-image: "/blog/survey-comparison-cover.jpg"
+image: "/images/blog/survey-comparison-cover.jpeg"
 slug: "perspective-vs-traditional-surveys"
 excerpt: "Discover why traditional surveys fall short and how Perspective AI's conversational approach delivers deeper insights, higher completion rates, and more actionable data for modern businesses."
 tags: ["product comparison", "survey methods", "ai technology", "customer feedback", "data analysis"]
