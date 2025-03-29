@@ -5,7 +5,7 @@ author: "Perspective AI Team"
 description: "Learn why traditional VOC programs often miss crucial customer insights and how to capture the complete customer story."
 keywords: "VOC program, customer insights, customer feedback, customer experience, customer understanding"
 category: "Customer Intelligence"
-image: "/blog/voc-program-improvement-cover.jpg"
+image: "/images/blog/voc-program-improvement-cover.jpeg"
 ---
 
 If you're relying solely on surveys and passive feedback to understand your customers, you're only getting part of the picture. Voice of the Customer (VOC) programs are supposed to give you insight into customer needs, but traditional methods often fall short. They capture surface-level opinions, not deep motivations. They tell you what happened, but not why it happened. And they rarely help you predict what's coming next.
