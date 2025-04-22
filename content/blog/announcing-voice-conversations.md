@@ -5,7 +5,7 @@ author: "Perspective AI Team"
 description: "If you’ve ever wished you could sit down with every customer and just ask… now you can."
 keywords: "VOC program, customer insights, customer feedback, customer experience, customer understanding, voice conversations"
 category: "Customer Intelligence"
-image: "/images/blog/voice-conversations.png"
+image: "/images/blog/voice-announcement-blog.png"
 ---
 
 ## Their voice matters. Now it's easier to hear it.
