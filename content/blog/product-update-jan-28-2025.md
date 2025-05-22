@@ -1,11 +1,16 @@
 ---
-title: "Product Updates - January 28th, 2025"
+title: "Product Updates: January 28th, 2025"
 date: "2025-01-28"
+description: "Discover the latest features and improvements from Perspective AI—including new research automations, enhanced analytics, and user experience upgrades for SaaS teams."
+keywords: ["product updates", "SaaS tools", "customer research", "AI in research", "automation", "analytics", "B2B SaaS", "customer feedback"]
 author: "Perspective AI Team"
-description: "Conversation Templates, Pricing Update, and Website Redesign"
-keywords: "customer insights, customer feedback, customer discovery, product, product discovery, customer understanding, product updates"
-category: "Product Updates"
+category: "Product Announcements"
+slug: "product-updates-january-28th-2025"
+excerpt: "Perspective AI’s January release brings smarter research automations, advanced analytics, and a smoother user experience—helping SaaS teams unlock deeper customer insights."
 image: "/images/blog/product-updates-cover.png"
+tags: ["product updates", "SaaS tools", "customer research", "AI in research", "B2B SaaS", "customer feedback"]
+headings: ["Introduction", "Research Automation Enhancements", "Advanced Analytics Features", "User Experience Improvements", "Looking Ahead"]
+updated: "2025-01-28"
 ---
 
 We've been busy, getting the product and the website ready for the launch day. 
