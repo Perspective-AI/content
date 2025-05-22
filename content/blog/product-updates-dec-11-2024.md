@@ -5,7 +5,7 @@ author: "Perspective AI Team"
 description: "Enhanced Analysis Tools and Improved Conversation Guide Experience"
 keywords: "customer insights, customer feedback, customer discovery, product, product discovery, customer understanding, product updates,new features, Perspective AI"
 category: "Product Updates"
-image: ""
+image: "/images/blog/product-updates-cover.png"
 ---
 
 We're excited to kick off our regular product update series! At Perspective AI, we believe in continuous improvement and rapid innovation. This update highlights the latest features and improvements we've shipped to help you work more efficiently and get better insights from your data.
