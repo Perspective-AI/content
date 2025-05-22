@@ -1,11 +1,16 @@
 ---
 title: "Why Traditional NPS Surveys Are Not Enough in 2024"
 date: "2024-12-07"
+description: "Traditional NPS surveys fail to capture the full customer experience in 2024. Learn why SaaS leaders are shifting to richer, conversational feedback to drive real growth."
+keywords: ["NPS surveys", "customer feedback", "SaaS research tools", "conversational feedback", "customer insights", "B2B SaaS", "AI in research", "modern customer experience"]
 author: "Perspective AI Team"
-description: "Discover how AI is transforming traditional NPS surveys into actionable insights. Learn how to calculate NPS scores, overcome common limitations, and implement a data-driven framework for improving customer satisfaction. Get proven strategies for turning feedback into measurable business growth."
-keywords: "customer insights, customer feedback, customer discovery, NPS Surveys, NPS, Surveys"
-category: "Customer Intelligence"
+category: "Customer Research"
+slug: "why-traditional-nps-surveys-are-not-enough-in-2024"
+excerpt: "Are NPS surveys falling short? Discover why today’s SaaS leaders are moving beyond outdated metrics and embracing richer, more actionable customer conversations."
 image: "/images/blog/why-nps-surveys-arent-enough.png"
+tags: ["customer feedback", "customer research", "SaaS tools", "AI in research", "customer insights", "B2B SaaS"]
+headings: ["Introduction", "The Limits of Traditional NPS", "What Modern Customers Expect", "From Metrics to Conversations", "How SaaS Leaders Are Adapting"]
+updated: "2024-12-07"
 ---
 
 As business leaders, we've all embraced the Net Promoter Score (NPS) as a cornerstone metric for measuring customer satisfaction and loyalty. Since its introduction by Fred Reichheld in 2003, NPS has become the gold standard for tracking customer sentiment across industries. Its elegance lies in its simplicity: "On a scale of 0-10, how likely are you to recommend our product/service to a friend or colleague?"
