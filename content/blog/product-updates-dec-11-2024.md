@@ -1,11 +1,11 @@
 ---
-title: "Product Release Notes: December 11, 2024"
+title: "Product Updates - December 11th, 2024"
 date: "2024-12-11"
 author: "Perspective AI Team"
-description: "Explore the latest features and improvements in Perspective AI's December 2024 release, including enhanced analytics and integration capabilities."
-keywords: "product updates, new features, Perspective AI, customer insights, product development"
+description: "Enhanced Analysis Tools and Improved Conversation Guide Experience"
+keywords: "customer insights, customer feedback, customer discovery, product, product discovery, customer understanding, product updates,new features, Perspective AI"
 category: "Product Updates"
-excerpt: "December 11, 2024 - Enhanced Analysis Tools and Improved Conversation Guide Experience"
+image: "/images/blog/product-updates.png"
 ---
 
 We're excited to kick off our regular product update series! At Perspective AI, we believe in continuous improvement and rapid innovation. This update highlights the latest features and improvements we've shipped to help you work more efficiently and get better insights from your data.
