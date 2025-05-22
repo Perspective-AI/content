@@ -1,6 +1,6 @@
 ---
 title: "Seamless Integration: How Perspective AI Adapts to Your Business Ecosystem"
-date: "2025-03-20"
+date: "2025-05-22"
 description: "Explore how Perspective AI's flexible integration and customization capabilities allow businesses to embed powerful customer conversations within their existing tech stack and workflows."
 keywords: ["integration capabilities", "API integration", "customization options", "CRM integration", "workflow automation", "enterprise integration", "feedback system integration", "Perspective AI customization"]
 author: "Perspective AI Team"
@@ -10,7 +10,7 @@ excerpt: "Learn how Perspective AI seamlessly connects with your existing busine
 image: "/images/blog/customized-integration-capabilities.png"
 tags: ["integration", "customization", "enterprise solutions", "technical implementation", "system connectivity", "business tools"]
 headings: ["Integration Architecture", "Customization Options", "Implementation Process", "Use Cases", "Security Standards"]
-updated: "2025-03-20"
+updated: "2025-05-22"
 ---
 
 # Seamless Integration: How Perspective AI Adapts to Your Business Ecosystem
