@@ -1,7 +1,11 @@
 ---
 title: "Why Traditional NPS Surveys Are Not Enough in 2024"
 date: "2024-12-07"
-excerpt: "Discover how AI is transforming traditional NPS surveys into actionable insights. Learn how to calculate NPS scores, overcome common limitations, and implement a data-driven framework for improving customer satisfaction. Get proven strategies for turning feedback into measurable business growth."
+author: "Perspective AI Team"
+description: "Discover how AI is transforming traditional NPS surveys into actionable insights. Learn how to calculate NPS scores, overcome common limitations, and implement a data-driven framework for improving customer satisfaction. Get proven strategies for turning feedback into measurable business growth."
+keywords: "customer insights, customer feedback, customer discovery, NPS Surveys, NPS, Surveys"
+category: "Customer Intelligence"
+image: "/images/blog/why-nps-surveys-arent-enough.png"
 ---
 
 As business leaders, we've all embraced the Net Promoter Score (NPS) as a cornerstone metric for measuring customer satisfaction and loyalty. Since its introduction by Fred Reichheld in 2003, NPS has become the gold standard for tracking customer sentiment across industries. Its elegance lies in its simplicity: "On a scale of 0-10, how likely are you to recommend our product/service to a friend or colleague?"
