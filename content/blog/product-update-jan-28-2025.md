@@ -1,8 +1,13 @@
 ---
-title: "Product Updates - Jan 28"
+title: "Product Updates 1/28/2025"
 date: "2025-01-28"
-excerpt: "Introducing Customer Clarity"
+author: "Perspective AI Team"
+description: "Conversation Templates, Pricing Update, and Website Redesign"
+keywords: "customer insights, customer feedback, customer discovery, product, product discovery, customer understanding, product updates"
+category: "Product Updates"
+image: "/images/blog/product-updates.png"
 ---
+
 We've been busy, getting the product and the website ready for the launch day. 
 
 ## What's New?
