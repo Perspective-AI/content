@@ -3,7 +3,7 @@ title: "Perspective AI vs. Traditional Surveys: The Future of Customer Feedback"
 date: "2025-02-10"
 author: "Perspective AI Team"
 description: "Compare how Perspective AI's conversational approach outperforms traditional surveys in gathering meaningful customer insights."
-keywords: "customer feedback, surveys, AI technology, customer insights, feedback methods"
+keywords: ["customer feedback, surveys, AI technology, customer insights, feedback methods"]
 category: "Product Insights"
 image: "/images/blog/survey-comparison-cover.jpeg"
 slug: "perspective-vs-traditional-surveys"
