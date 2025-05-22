@@ -2,13 +2,13 @@
 title: "Hear Your Customers: Introducing Voice Conversations"
 date: "2025-04-21"
 description: "Perspective AI now lets you capture authentic, unfiltered customer feedback with AI-powered voice conversations—unlocking richer insights and deeper understanding."
-keywords: ["voice conversations", "customer feedback", "AI voice interviews", "SaaS research tools", "customer insights", "B2B SaaS innovation", "voice-enabled research", "AI-powered feedback"]
+keywords: ["voice conversations", "customer feedback", "AI voice interviews", "SaaS research tools", "customer insights", "B2B SaaS innovation", "voice-enabled research", "AI-powered feedback", "product updates"]
 author: "Perspective AI Team"
 category: "Product Updates"
 slug: "hear-your-customers-introducing-voice-conversations"
 excerpt: "Tired of flat survey data? Perspective AI now lets you hear your customers—literally. Discover how voice conversations are transforming customer research and driving richer, more actionable insights."
 image: "/images/blog/voice-announcement-blog.png"
-tags: ["voice conversations", "AI in research", "product update", "customer feedback", "SaaS tools", "B2B innovation"]
+tags: ["voice conversations", "AI in research", "product updates", "customer feedback", "SaaS tools", "B2B innovation"]
 headings: ["Introduction", "Why Voice Matters in Customer Research", "How AI-Powered Voice Conversations Work", "Real-World Use Cases", "Getting Started with Voice Conversations"]
 updated: "2025-04-21"
 ---
