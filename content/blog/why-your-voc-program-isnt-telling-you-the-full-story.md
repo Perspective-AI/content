@@ -3,7 +3,7 @@ title: "Why Your VOC Program Isn't Telling You the Full Story"
 date: "2025-02-12"
 author: "Perspective AI Team"
 description: "Learn why traditional VOC programs often miss crucial customer insights and how to capture the complete customer story."
-keywords: "VOC program, customer insights, customer feedback, customer experience, customer understanding"
+keywords: ["VOC program", "customer insights", "customer feedback", "customer experience", "customer understanding"]
 category: "Customer Intelligence"
 image: "/images/blog/voc-program-improvement-cover.jpeg"
 ---
