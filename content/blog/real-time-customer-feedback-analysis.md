@@ -3,7 +3,7 @@ title: "Real-Time Customer Feedback Analysis: The Key to Proactive Customer Succ
 date: "2025-02-19"
 author: "Perspective AI Team"
 description: "Discover how real-time customer feedback analysis can transform your customer success strategy and help you address issues before they impact customer satisfaction."
-keywords: "customer feedback, real-time analysis, customer success, customer satisfaction, proactive support"
+keywords: ["customer feedback, real-time analysis, customer success, customer satisfaction, proactive support"]
 category: "Customer Success"
 image: "/images/blog/customer-feedback-analysis-cover.jpeg"
 slug: "real-time-customer-feedback-analysis"
