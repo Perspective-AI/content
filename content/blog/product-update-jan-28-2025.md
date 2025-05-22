@@ -5,7 +5,7 @@ author: "Perspective AI Team"
 description: "Conversation Templates, Pricing Update, and Website Redesign"
 keywords: "customer insights, customer feedback, customer discovery, product, product discovery, customer understanding, product updates"
 category: "Product Updates"
-image: "/images/blog/product-updates.png"
+image: ""
 ---
 
 We've been busy, getting the product and the website ready for the launch day. 
