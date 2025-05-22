@@ -1,9 +1,9 @@
 ---
-title: "Hear Your Customers: Introducing Voice Conversations"
-date: "2025-04-21"
+title: "From Gut Instinct to Systematic Discovery: How Top Founders Are Rethinking Customer Research"
+date: "2025-05-22"
 author: "Perspective AI Team"
-description: "If you’ve ever wished you could sit down with every customer and just ask… now you can."
-keywords: "VOC program, customer insights, customer feedback, customer experience, customer understanding, voice conversations"
+description: "Successful founders are moving beyond guesswork and embracing a new discipline: systematic customer discovery."
+keywords: "customer insights, customer feedback, customer discovery, product, product discovery, customer understanding"
 category: "Customer Intelligence"
 image: "/images/blog/systematic-customer-discovery.png"
 ---
