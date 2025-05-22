@@ -7,6 +7,7 @@ author: "Perspective AI Team"
 category: "Product Features"
 slug: "customization-integration-capabilities"
 excerpt: "Learn how Perspective AI seamlessly connects with your existing business systems with flexible APIs, pre-built connectors, and customizable workflows that adapt to your specific business needs."
+image: "/images/blog/customized-integration-capabilities.png"
 tags: ["integration", "customization", "enterprise solutions", "technical implementation", "system connectivity", "business tools"]
 headings: ["Integration Architecture", "Customization Options", "Implementation Process", "Use Cases", "Security Standards"]
 updated: "2025-03-20"
