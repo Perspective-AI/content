@@ -1,11 +1,18 @@
 ---
 title: "Finally: Every Customer Gets a Seat at the Table"
-subtitle: "Announcing public launch and seed funding"
 date: "2025-01-30"
+description: "Discover how leading SaaS teams achieve customer clarity, earn strategic influence, and drive growth by turning feedback into action with Perspective AI."
+keywords: ["customer clarity", "customer research", "SaaS teams", "strategic influence", "customer insights", "AI in research", "B2B SaaS", "customer feedback", "AI innovation"]
+author: "Perspective AI Team"
+category: "Customer Research"
+slug: "customer-clarity-how-winning-teams-secure-their-seat-at-the-table"
 excerpt: "we're thrilled to announce our public launch and our seed funding today. But more importantly, we want to tell you why we exist: to introduce Customer Clarity"
-slug: "customer-clarity"
-image: "https://getperspective.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-image.56cce4ba.png&w=3840&q=75"
+image: "/images/blog/seat-at-the-table.png"
+tags: ["customer clarity", "customer research", "customer insights", "AI in research", "B2B SaaS", "customer feedback"]
+headings: ["Introduction", "The Stakes: Why Customer Clarity Matters", "What Sets Winning Teams Apart", "From Feedback to Influence", "Action Steps: Securing Your Seat"]
+updated: "2025-01-30"
 ---
+
 
 I think we all agree: the best way to understand someone is to have a real conversation with them.
 
