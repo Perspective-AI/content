@@ -1,5 +1,5 @@
 ---
-title: "Product Updates 1/28/2025"
+title: "Product Updates - January 28th, 2025"
 date: "2025-01-28"
 author: "Perspective AI Team"
 description: "Conversation Templates, Pricing Update, and Website Redesign"
