@@ -5,7 +5,7 @@ author: "Perspective AI Team"
 description: "Surveys reduce customer insights to the lowest common denominator, stripping away context and depth. Discover why companies that rely on surveys may be missing the full picture."
 keywords: "survey alternatives, customer journey, customer insights, qualitative research, customer understanding, decision-making"
 category: "Customer Intelligence"
-image: "/images/blog/lowest-common-denominator-trap.png.png"
+image: "/images/blog/lowest-common-denominator-trap.png"
 
 ---
 
