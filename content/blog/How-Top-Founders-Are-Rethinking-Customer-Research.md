@@ -4,7 +4,7 @@ date: "2025-05-22"
 description: "Discover how leading startup founders are moving beyond intuition to adopt systematic, data-driven approaches for customer research that drive real product success."
 keywords: ["customer research", "systematic discovery", "founder strategies", "product-market fit", "startup research methods", "B2B SaaS insights", "customer interviews", "AI-driven research"]
 author: "Perspective AI Team"
-category: "Customer Research"
+category: "Market Research"
 slug: "from-gut-instinct-to-systematic-discovery-how-top-founders-are-rethinking-customer-research"
 excerpt: "Top founders are ditching gut instinct and embracing structured, repeatable customer research. Learn the tactics redefining how modern SaaS teams discover what customers really want—and how you can, too."
 image: "/images/blog/systematic-customer-discovery.png"
