@@ -1,11 +1,11 @@
 ---
-title: "Product Updates: January 28th, 2025"
+title: "Product Updates: June 10th, 2025"
 date: "2025-06-10"
 description: "Today, we’re rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
 keywords: ["product updates", "SaaS tools", "customer research", "AI in research", "automation", "analytics", "B2B SaaS", "customer feedback"]
 author: "Perspective AI Team"
-category: "Product Announcements"
-slug: "product-updates-january-28th-2025"
+category: "Product Updates"
+slug: "product-updates-june-10th-2025"
 excerpt: "Today, we’re rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
 image: "/images/blog/product-updates-june-2025.png"
 tags: ["product updates", "SaaS tools", "customer research", "AI in research", "B2B SaaS", "customer feedback"]
