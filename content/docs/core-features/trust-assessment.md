@@ -98,5 +98,3 @@ Trust Assessment leverages advanced AI models specifically trained for fraud det
 ## Getting Started
 
 Trust Assessment is automatically enabled for all interviews. Simply complete your interviews and review the Trust Assessment results in the interview analysis section. Look for the Trust Assessment tab to access detailed scoring, recommendations, and verification steps for each participant.
-
-**Note**: Trust Assessment is currently in beta, with continuous improvements being made to enhance accuracy and provide even more valuable insights for research integrity.
