@@ -2,13 +2,13 @@
 title: "Product Updates: June 10th, 2025"
 date: "2025-06-10"
 description: "Today, we’re rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
-keywords: ["Product Updates", "Authentication & Trust", "Reasoning Models", "Report Automation", "AI Reasoning", "AI in Research"]
+keywords: ["Perspective AI", "Perspective AI Product Updates", "Product Updates", "SaaS tools", "Customer Research", "AI in research", "AI-Powered Research", "AI-Driven Research", "Deep Research", "Deep Customer Research", "AI Reasoning", "B2B SaaS", "Customer Feedback", "Product Research"]
 author: "Perspective AI Team"
 category: "Product Updates"
 slug: "product-updates-june-10th-2025"
 excerpt: "Today, we’re rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
 image: "/images/blog/product-updates-june-2025.png"
-tags: ["Product Updates", "SaaS tools", "customer research", "AI in research", "B2B SaaS", "customer feedback", "reasoning models"]
+tags: ["Product Updates", "Authentication & Trust", "Reasoning Models", "Report Automation", "AI Reasoning", "AI in Research"]
 headings: ["Reasoning Models", "Research Automation Enhancements", "Advanced Analytics Features", "User Experience Improvements", "Authentication & Trust", "Looking Ahead"]
 updated: "2025-06-10"
 ---
