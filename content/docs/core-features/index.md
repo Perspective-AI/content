@@ -7,7 +7,9 @@ Perspective offers a range of powerful features to help you analyze and take act
 
 ## Key Features
 
-- [How to use link summaries](/docs/core-features/link-summaries)
-- [Create and manage workspaces](/docs/core-features/workspaces)
+- [Create and Manage Workspaces](/docs/core-features/workspaces)
+- [Trust Assessment: Ensuring Research Integrity Through Participant Validation](/docs/core-features/trust-assessment)
+- [How to Use Link Summaries](/docs/core-features/link-summaries)
+
 
 Explore each feature to learn how Perspective can transform your the way your business leverages feedback.
