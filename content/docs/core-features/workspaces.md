@@ -3,7 +3,7 @@ title: "Create and Manage Workspaces"
 description: "Learn how to stay organized while collaborating with your team"
 date: "2023-09-17"
 tags: ["administration", "collaboration"]
-nav_order: 2
+nav_order: 1
 nav_display: true
 ---
 
