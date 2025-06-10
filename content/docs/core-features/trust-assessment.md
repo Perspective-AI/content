@@ -3,7 +3,7 @@ title: "Trust Assessment: Ensuring Research Integrity Through Participant Valida
 description: "Learn how Perspective AI's Trust Assessment feature uses AI-powered fraud detection to validate interview participants, ensure research integrity, and identify potentially fraudulent respondents through automated multi-dimensional analysis."
 date: "2025-06-10"
 tags: []
-nav_order: 3
+nav_order: 2
 nav_display: true
 ---
 
