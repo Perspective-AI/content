@@ -3,7 +3,7 @@ title: "How To Use Link Summaries"
 description: "Learn about link summaries and how they work."
 date: "2023-09-17"
 tags: []
-nav_order: 1
+nav_order: 3
 nav_display: true
 ---
 
