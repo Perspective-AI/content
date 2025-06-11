@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Customer Loyalty & Retention Strategy"
 description: "Interview long-term customers, recently churned customers, and at-risk customers to understand loyalty drivers, retention barriers, and emotional engagement factors that inform loyalty strategy and retention initiatives."
 date: "2025-06-11"
 tags: [customer loyalty, customer retention, loyalty strategy, customer engagement, retention analysis]
-nav_order: 23
+nav_order: 24
 nav_display: true
 ---
 
