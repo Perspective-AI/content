@@ -26,7 +26,7 @@ By the end of this guide, you'll have:
 ## Step 1: Define Your Research Question
 
 **Start your product-market fit research:**
-1. Go to [getperspective.ai](https://getperspective.ai?utm_source=docs&utm_content=use-case-guides) and create your account
+1. Go to [getperspective.ai/signup](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and create your account
 2. Click "Create New Conversation"
 3. **Define your primary research question**, such as:
    - "How strong is the market demand for our product and what adjustments would increase adoption?"
@@ -310,6 +310,6 @@ A: Absolutely! Many successful companies start with strong PMF in a niche before
 
 You now have the framework to systematically assess and improve your product-market fit based on real customer insights rather than vanity metrics or assumptions.
 
-**Ready to validate your product-market fit with real customer conversations?** [Start your free Perspective AI account](https://getperspective.ai?utm_source=docs&utm_content=use-case-guides) and launch your product-market fit assessment today.
+**Ready to validate your product-market fit with real customer conversations?** [Start your free Perspective AI account](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and launch your product-market fit assessment today.
 
 **Need help designing PMF research or interpreting results?** [Book a 15-minute consultation](https://meetings.hubspot.com/brian2079?utm_source=docs&utm_content=use-case-guides) to create a product-market fit assessment approach that provides clear direction for your product strategy.
