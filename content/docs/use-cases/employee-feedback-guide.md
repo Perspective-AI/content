@@ -3,7 +3,7 @@ title: "How to Use Perspective AI to Collect and Analyze Employee Feedback"
 description: "Transform scattered employee feedback into clear, actionable insights using AI-powered interviews that gather consistent, in-depth feedback and automatically analyze it for patterns, sentiment, and priority areas."
 date: "2025-06-11"
 tags: [employee feedback, HR analytics, workplace satisfaction, employee interviews, retention analysis]
-nav_order: 1
+nav_order: 
 nav_display: true
 ---
 
@@ -26,7 +26,7 @@ By the end of this guide, you'll have:
 ## Step 1: Define Your Research Question
 
 **Start your employee feedback research:**
-1. Go to [getperspective.ai](https://getperspective.ai?utm_source=docs&utm_content=use-case-guides) and create your account
+1. Go to [getperspective.ai/signup](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and create your account
 2. Click "Create New Conversation"
 3. **Define your primary research question**, such as:
    - "How satisfied are our employees with their current work experience?"
@@ -282,6 +282,6 @@ A: It can complement or replace them. Perspective AI typically provides much ric
 
 You now have a systematic approach to understanding what your employees really think—and the data-driven insights needed to take meaningful action.
 
-**Ready to transform your employee feedback process?** [Start your free Perspective AI account](https://getperspective.ai?utm_source=docs&utm_content=use-case-guides) and launch your first employee satisfaction research today.
+**Ready to transform your employee feedback process?** [Start your free Perspective AI account](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and launch your first employee satisfaction research today.
 
 **Need help crafting the perfect research question?** [Book a 15-minute setup consultation](https://meetings.hubspot.com/brian2079?utm_source=docs&utm_content=use-case-guides) to design an interview approach tailored to your specific challenges and company culture.
