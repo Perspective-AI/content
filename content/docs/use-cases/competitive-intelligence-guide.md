@@ -26,7 +26,7 @@ By the end of this guide, you'll have:
 ## Step 1: Define Your Research Question
 
 **Start your competitive intelligence research:**
-1. Go to [getperspective.ai](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and create your account
+1. Go to [getperspective.ai/signup](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and create your account
 2. Click "Create New Conversation"
 3. **Define your primary research question**, such as:
    - "How do customers perceive our brand versus competitors and what drives their vendor selection decisions?"
