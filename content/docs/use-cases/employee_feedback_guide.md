@@ -284,4 +284,4 @@ You now have a systematic approach to understanding what your employees really t
 
 **Ready to transform your employee feedback process?** [Start your free Perspective AI account](https://getperspective.ai) and launch your first employee satisfaction research today.
 
-**Need help crafting the perfect research question?** Book a 15-minute setup consultation to design an interview approach tailored to your specific challenges and company culture.
+**Need help crafting the perfect research question?** [Book a 15-minute setup consultation](https://meetings.hubspot.com/brian2079?utm_source=docs&utm_content=use-case-guides) to design an interview approach tailored to your specific challenges and company culture.
