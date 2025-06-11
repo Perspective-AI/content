@@ -3,7 +3,7 @@ title: "How to Use Perspective AI to Collect Customer Testimonials for VCs"
 description: "How to Use Perspective AI to Collect Customer Testimonials for VCs"
 date: "2025-03-28"
 tags: []
-nav_order: 1
+nav_order: 
 nav_display: true
 ---
 
