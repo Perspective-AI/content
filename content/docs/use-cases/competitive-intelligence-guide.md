@@ -26,7 +26,7 @@ By the end of this guide, you'll have:
 ## Step 1: Define Your Research Question
 
 **Start your competitive intelligence research:**
-1. Go to [getperspective.ai](https://getperspective.ai?utm_source=docs&utm_content=use-case-guides) and create your account
+1. Go to [getperspective.ai](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and create your account
 2. Click "Create New Conversation"
 3. **Define your primary research question**, such as:
    - "How do customers perceive our brand versus competitors and what drives their vendor selection decisions?"
@@ -299,6 +299,6 @@ A: Quarterly pulse checks on key competitors, with deep-dive annual research. In
 
 You now have the framework to transform competitive guesswork into data-driven positioning strategy. Real buyer insights will guide your messaging, product priorities, and go-to-market approach.
 
-**Ready to understand how customers really perceive your competition?** [Start your free Perspective AI account](https://getperspective.ai?utm_source=docs&utm_content=use-case-guides) and launch your competitive intelligence research today.
+**Ready to understand how customers really perceive your competition?** [Start your free Perspective AI account](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and launch your competitive intelligence research today.
 
 **Need help identifying the right participants or research questions?** [Book a 15-minute consultation](https://meetings.hubspot.com/brian2079?utm_source=docs&utm_content=use-case-guides) to design a competitive research approach that reveals your biggest positioning opportunities.
