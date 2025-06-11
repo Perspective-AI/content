@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Competitive Intelligence & Market Position
 description: "Uncover how customers perceive your brand versus competitors and what drives their vendor selection decisions through AI-powered interviews that reveal positioning opportunities and competitive advantages."
 date: "2025-06-11"
 tags: [competitive intelligence, market positioning, brand perception, vendor selection, competitive analysis]
-nav_order: 2
+nav_order: 1
 nav_display: true
 ---
 
