@@ -26,7 +26,7 @@ By the end of this guide, you'll have:
 ## Step 1: Define Your Research Question
 
 **Start your customer persona research:**
-1. Go to [getperspective.ai](https://getperspective.ai?utm_source=docs&utm_content=use-case-guides) and create your account
+1. Go to [getperspective.ai/signup](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and create your account
 2. Click "Create New Conversation"
 3. **Define your primary research question**, such as:
    - "What are the core motivations, pain points, and behaviors of our target customers?"
@@ -302,6 +302,6 @@ A: This is valuable insight! Either adjust your targeting strategy or identify w
 
 You now have the framework to build personas based on real customer insights rather than assumptions. These data-driven personas will improve every customer-facing function from marketing to product development.
 
-**Ready to build personas based on real customer conversations?** [Start your free Perspective AI account](https://getperspective.ai?utm_source=docs&utm_content=use-case-guides) and launch your customer persona research today.
+**Ready to build personas based on real customer conversations?** [Start your free Perspective AI account](https://getperspective.ai/signup?utm_source=docs&utm_content=use-case-guides) and launch your customer persona research today.
 
 **Need help segmenting your customer base or designing persona research?** [Book a 15-minute consultation](https://meetings.hubspot.com/brian2079?utm_source=docs&utm_content=use-case-guides) to create a persona development approach that reveals your customers' true motivations and behaviors.
