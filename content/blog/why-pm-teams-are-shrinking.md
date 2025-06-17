@@ -7,7 +7,7 @@ author: "Perspective AI Team"
 category: "Product Management"
 slug: "why-pm-teams-are-shrinking-and-what-it-means-for-those-who-remain"
 excerpt: "AI is shrinking PM teams, eliminating routine tasks, and elevating expectations. Find out how surviving product managers can become indispensable strategic leaders."
-image: "/images/blog/pm-teams-shrinking.png"
+image: "/images/blog/reshaping-product-management.png"
 tags: ["AI automation", "career strategy", "PM skills", "human-AI collaboration", "team dynamics", "job security"]
 headings: ["Introduction", "The New Reality: AI is a Force Multiplier", "Efficiency Comes at a Cost", "What It Means for Those Who Remain", "The Bottom Line"]
 updated: "2025-06-17"
