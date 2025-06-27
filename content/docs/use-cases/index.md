@@ -16,6 +16,7 @@ Choose your use case below to get started:
 - [How to Use Perspective AI for Competitive Intelligence & Market Positioning](/docs/use-cases/competitive-intelligence-guide)
 - [How to Use Perspective AI for Customer Persona Development & Validation](/docs/use-cases/customer-persona-guide)
 - [How to Use Perspective AI for Product-Market Fit Assessment](/docs/use-cases/product-market-fit-guide)
+- [How to Use AI Focus Groups for Market Research & Product Development Insights](/docs/use-cases/ai-focus-groups-guide.md)
 ## Product Management
 - [How to Use Perspective AI for Feature Prioritization & Roadmap Validation](/docs/use-cases/feature-prioritization-guide)
 - [How to Use Perspective AI for User Onboarding & Activation Optimization](/docs/use-cases/user-onboarding-guide)
