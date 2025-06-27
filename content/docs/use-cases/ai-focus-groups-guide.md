@@ -3,7 +3,7 @@ title: "How to Use AI Focus Groups for Market Research & Product Development Ins
 description: "Conduct scalable focus groups with AI moderation to gather diverse consumer opinions, validate product concepts, and understand market sentiment—revealing customer insights and market opportunities through automated group discussions rather than expensive traditional focus group facilities."
 date: "2025-06-27"
 tags: [ai focus groups, market research, product development, consumer insights, focus group moderation]
-nav_order: 19
+nav_order: 33
 nav_display: true
 ---
 
