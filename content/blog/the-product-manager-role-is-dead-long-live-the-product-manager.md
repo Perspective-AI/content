@@ -1,14 +1,14 @@
 ---
 title: "The Death (and Rebirth) of Product Management"
 date: "2025-06-17"
-description: "AI just buried the old PM job. What’s rising in its place is smarter, faster, and 100% more human. Here’s what that transformation looks like."
+description: "AI just buried the old PM job. What's rising in its place is smarter, faster, and 100% more human. Here's what that transformation looks like."
 keywords: ["product management evolution", "AI impact on PM", "strategic product management", "future of work", "AI-driven transformation", "PM career development", "human-AI collaboration"]
 author: "Perspective AI Team"
 category: "Product Management"
 slug: "death-and-rebirth-of-product-management"
 excerpt: "The old PM role is gone. AI killed the busywork—but in its place is a new kind of product leader: strategic, intuitive, and deeply human."
 image: "/images/blog/the-pm-role-is-dead-cover-image.png"
-tags: ["AI automation", "career strategy", "PM skills", "human–AI collaboration", "team dynamics", "job security", "product strategy", "AI technology"]
+tags: ["Product Management & Strategy", "AI & Automation"]
 headings: ["Introduction", "How AI Killed the Old PM Role", "Strategic Elevation of PMs", "Embracing the Role of AI Orchestrator", "Building Human-Centric Skills", "The Future of Product Management"]
 updated: "2025-06-17"
 ---
@@ -30,7 +30,7 @@ AI technology has rapidly taken over these responsibilities, effectively ending 
 
 A Product Manager at DocuSign summarized it clearly:
 
-> “The tasks I spent most of my time on—like gathering updates and conducting basic analysis—are now almost entirely automated. My role is fundamentally different now.”
+> "The tasks I spent most of my time on—like gathering updates and conducting basic analysis—are now almost entirely automated. My role is fundamentally different now."
 
 ## Strategic Elevation of PMs
 
@@ -51,7 +51,7 @@ The modern PM is no longer merely managing products—they're orchestrating AI-p
 
 An experienced PM at Adobe noted:
 
-> “AI tools are like super-efficient junior PMs. They do the groundwork, and my job is to integrate and refine those insights into strategic decisions.”
+> "AI tools are like super-efficient junior PMs. They do the groundwork, and my job is to integrate and refine those insights into strategic decisions."
 
 ## Building Human-Centric Skills
 
@@ -69,7 +69,7 @@ The future PM is a strategic orchestrator, balancing AI capabilities with human 
 
 The traditional, tactical PM role might be gone—but in its place is emerging a role that's far more impactful, influential, and human-centered.
 
-Product management isn't dead—it’s being reborn.
+Product management isn't dead—it's being reborn.
 
 Curious about the details of this transformation?
 

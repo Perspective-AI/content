@@ -1,5 +1,5 @@
 ---
-title: "Why Your VOC Program Isn’t Telling You the Full Story"
+title: "Why Your VOC Program Isn't Telling You the Full Story"
 date: "2025-02-12"
 description: "Most VOC programs miss the mark on capturing true customer experience. Discover the gaps—and how leading teams use richer feedback to unlock deeper customer insights and action."
 keywords: ["VOC program", "customer insights", "customer feedback", "customer experience", "customer understanding", "qualitative research", "B2B SaaS", "AI in research"]
@@ -8,8 +8,8 @@ category: "Customer Intelligence"
 slug: "why-your-voc-program-isnt-telling-you-the-full-story"
 excerpt: "Your VOC program might be missing what matters most. Learn why top SaaS teams are rethinking feedback—and how you can get the full story straight from your customers."
 image: "/images/blog/voc-program-improvement-cover.jpeg"
-tags: ["VOC program", "customer insights", "customer feedback", "customer experience", "customer understanding", "qualitative research"]
-headings: ["Introduction", "The Limits of Traditional VOC Programs", "What You’re Missing (and Why It Matters)", "The Role of Qualitative Insights", "How to Get the Full Story from Your Customers"]
+tags: ["Customer Insights & Research"]
+headings: ["Introduction", "The Limits of Traditional VOC Programs", "What You're Missing (and Why It Matters)", "The Role of Qualitative Insights", "How to Get the Full Story from Your Customers"]
 updated: "2025-02-12"
 ---
 

@@ -6,9 +6,9 @@ keywords: ["NPS surveys", "customer feedback", "SaaS research tools", "conversat
 author: "Perspective AI Team"
 category: "Customer Research"
 slug: "why-traditional-nps-surveys-are-not-enough-in-2024"
-excerpt: "Are NPS surveys falling short? Discover why today’s SaaS leaders are moving beyond outdated metrics and embracing richer, more actionable customer conversations."
+excerpt: "Are NPS surveys falling short? Discover why today's SaaS leaders are moving beyond outdated metrics and embracing richer, more actionable customer conversations."
 image: "/images/blog/why-nps-surveys-arent-enough.png"
-tags: ["customer feedback", "customer research", "SaaS tools", "AI in research", "customer insights", "B2B SaaS"]
+tags: ["Customer Insights & Research", "Business Growth & Retention"]
 headings: ["Introduction", "The Limits of Traditional NPS", "What Modern Customers Expect", "From Metrics to Conversations", "How SaaS Leaders Are Adapting"]
 updated: "2024-12-07"
 ---

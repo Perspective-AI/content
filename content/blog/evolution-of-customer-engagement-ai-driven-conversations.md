@@ -7,7 +7,7 @@ author: "Perspective AI Team"
 category: "Industry Insights"
 slug: "evolution-of-customer-engagement-ai-driven-conversations"
 excerpt: "Traditional feedback methods are giving way to AI-driven conversations that deliver richer insights and more meaningful customer connections. Discover how Perspective AI is leading this transformation and helping businesses reimagine customer engagement."
-tags: ["customer engagement", "ai technology", "industry trends", "customer insights", "feedback innovation"]
+tags: ["Customer Insights & Research", "AI & Automation"]
 headings: ["The Limitations of Traditional Feedback Approaches", "Understanding Conversational AI in Customer Insights", "A Case Study: Healthcare Provider", "Customer Insights Education: Key Principles", "The Future of Customer Engagement"]
 updated: "2025-03-29"
 image: "/images/blog/customer-engagement-evolution-cover.jpeg"

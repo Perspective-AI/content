@@ -8,7 +8,7 @@ category: "Product Updates"
 slug: "hear-your-customers-introducing-voice-conversations"
 excerpt: "Tired of flat survey data? Perspective AI now lets you hear your customers—literally. Discover how voice conversations are transforming customer research and driving richer, more actionable insights."
 image: "/images/blog/voice-announcement-blog.png"
-tags: ["voice conversations", "AI in research", "product updates", "customer feedback", "SaaS tools", "B2B innovation"]
+tags: ["Research Methods & Innovation", "AI & Automation"]
 headings: ["Introduction", "Why Voice Matters in Customer Research", "How AI-Powered Voice Conversations Work", "Real-World Use Cases", "Getting Started with Voice Conversations"]
 updated: "2025-04-21"
 ---

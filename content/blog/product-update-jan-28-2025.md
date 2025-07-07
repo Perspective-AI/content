@@ -6,9 +6,9 @@ keywords: ["product updates", "SaaS tools", "customer research", "AI in research
 author: "Perspective AI Team"
 category: "Product Announcements"
 slug: "product-updates-january-28th-2025"
-excerpt: "Perspective AI’s January release brings smarter research automations, advanced analytics, and a smoother user experience—helping SaaS teams unlock deeper customer insights."
+excerpt: "Perspective AI's January release brings smarter research automations, advanced analytics, and a smoother user experience—helping SaaS teams unlock deeper customer insights."
 image: "/images/blog/product-updates-jan-2025.png"
-tags: ["product updates", "SaaS tools", "customer research", "AI in research", "B2B SaaS", "customer feedback"]
+tags: ["Product Management & Strategy", "SaaS & B2B"]
 headings: ["Introduction", "Research Automation Enhancements", "Advanced Analytics Features", "User Experience Improvements", "Looking Ahead"]
 updated: "2025-01-28"
 ---

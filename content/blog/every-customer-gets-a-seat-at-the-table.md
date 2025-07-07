@@ -8,7 +8,7 @@ category: "Customer Research"
 slug: "customer-clarity-how-winning-teams-secure-their-seat-at-the-table"
 excerpt: "we're thrilled to announce our public launch and our seed funding today. But more importantly, we want to tell you why we exist: to introduce Customer Clarity"
 image: "/images/blog/seat-at-the-table.png"
-tags: ["customer clarity", "customer research", "customer insights", "AI in research", "B2B SaaS", "customer feedback"]
+tags: ["Customer Insights & Research", "Business Growth & Retention"]
 headings: ["Introduction", "The Stakes: Why Customer Clarity Matters", "What Sets Winning Teams Apart", "From Feedback to Influence", "Action Steps: Securing Your Seat"]
 updated: "2025-01-30"
 ---
