@@ -1,24 +1,24 @@
 ---
 title: "Product Updates: June 10th, 2025"
 date: "2025-06-10"
-description: "Today, we’re rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
+description: "Today, we're rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
 keywords: ["Perspective AI", "Perspective AI Product Updates", "Product Updates", "SaaS tools", "Customer Research", "AI in research", "AI-Powered Research", "AI-Driven Research", "Deep Research", "Deep Customer Research", "AI Reasoning", "B2B SaaS", "Customer Feedback", "Product Research"]
 author: "Perspective AI Team"
 category: "Product Updates"
 slug: "product-updates-june-10th-2025"
-excerpt: "Today, we’re rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
+excerpt: "Today, we're rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
 image: "/images/blog/product-updates-june-2025.png"
-tags: ["Product Updates", "Authentication & Trust", "Reasoning Models", "Report Automation", "AI Reasoning", "AI in Research"]
+tags: ["Product Management & Strategy", "SaaS & B2B", "AI & Automation"]
 headings: ["Reasoning Models", "Research Automation Enhancements", "Advanced Analytics Features", "User Experience Improvements", "Authentication & Trust", "Looking Ahead"]
 updated: "2025-06-10"
 ---
 
 # Elevate Your Research Workflow with Our Biggest Update Yet
-Welcome to the latest—and most powerful—update to Perspective AI. We’re on a mission to make research faster, smarter, and more trustworthy. Today, we’re rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis.
+Welcome to the latest—and most powerful—update to Perspective AI. We're on a mission to make research faster, smarter, and more trustworthy. Today, we're rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis.
 
-In this release, you’ll find everything from new ways to log in and collaborate, to smarter interview management, more powerful filtering and reporting, and a suite of UX upgrades you’ll notice immediately.
+In this release, you'll find everything from new ways to log in and collaborate, to smarter interview management, more powerful filtering and reporting, and a suite of UX upgrades you'll notice immediately.
 
-Let’s dive in.
+Let's dive in.
 
 ---
 ## Authenticate & Trust at Scale

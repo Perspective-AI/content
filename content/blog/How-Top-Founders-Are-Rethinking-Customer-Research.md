@@ -8,8 +8,8 @@ category: "Market Research"
 slug: "from-gut-instinct-to-systematic-discovery-how-top-founders-are-rethinking-customer-research"
 excerpt: "Top founders are ditching gut instinct and embracing structured, repeatable customer research. Learn the tactics redefining how modern SaaS teams discover what customers really want—and how you can, too."
 image: "/images/blog/systematic-customer-discovery.png"
-tags: ["customer research", "product-market fit", "founder best practices", "SaaS strategy", "AI in research", "startup growth"]
-headings: ["Introduction", "Why Gut Instinct Isn’t Enough", "The Rise of Systematic Customer Research", "How Top Founders Are Doing It Differently", "Making Systematic Discovery a Competitive Edge"]
+tags: ["Customer Insights & Research", "Product Management & Strategy"]
+headings: ["Introduction", "Why Gut Instinct Isn't Enough", "The Rise of Systematic Customer Research", "How Top Founders Are Doing It Differently", "Making Systematic Discovery a Competitive Edge"]
 updated: "2025-05-22"
 ---
 

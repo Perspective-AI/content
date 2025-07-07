@@ -8,8 +8,8 @@ category: "Product Updates"
 slug: "product-updates-december-11th-2024"
 excerpt: "See what's new at Perspective AI: enhanced conversation guides, expanded analysis toolkit, and better research tools that make capturing customer insights faster and easier than ever."
 image: "/images/blog/Product-Updates-Dec-2024.png"
-tags: ["product updates", "SaaS tools", "customer research", "AI in research", "B2B SaaS", "customer feedback"]
-headings: ["Introduction", "Enhanced Voice Conversations", "New Integrations", "Improved Research Tools", "What’s Next"]
+tags: ["Product Management & Strategy", "SaaS & B2B"]
+headings: ["Introduction", "Enhanced Voice Conversations", "New Integrations", "Improved Research Tools", "What's Next"]
 updated: "2024-12-11"
 ---
 

@@ -8,7 +8,7 @@ category: "Customer Success"
 image: "/images/blog/customer-feedback-analysis-cover.jpeg"
 slug: "real-time-customer-feedback-analysis"
 excerpt: "Traditional feedback systems create weeks of delay between customer issues and action. Learn how Perspective AI's real-time analysis capabilities provide immediate insights, allowing businesses to respond to customer needs faster than ever before."
-tags: ["customer feedback", "ai technology", "real-time analytics", "customer experience", "business intelligence"]
+tags: ["Customer Insights & Research", "AI & Automation"]
 headings: ["The Critical Timing Gap in Traditional Feedback", "How Real-Time AI Feedback Analysis Changes the Game", "A Case Study: Tech Company Responds to Product Issues", "Beyond Speed: The Quality Advantage", "Implementing Real-Time Feedback Systems"]
 updated: "2025-03-30"
 ---
