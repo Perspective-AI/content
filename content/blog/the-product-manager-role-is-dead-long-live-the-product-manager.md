@@ -4,7 +4,7 @@ date: "2025-06-17"
 description: "AI just buried the old PM job. What's rising in its place is smarter, faster, and 100% more human. Here's what that transformation looks like."
 keywords: ["product management evolution", "AI impact on PM", "strategic product management", "future of work", "AI-driven transformation", "PM career development", "human-AI collaboration"]
 author: "Perspective AI Team"
-category: "Product Management"
+category: "Modern Product Management"
 slug: "death-and-rebirth-of-product-management"
 excerpt: "The old PM role is gone. AI killed the busywork—but in its place is a new kind of product leader: strategic, intuitive, and deeply human."
 image: "/images/blog/the-pm-role-is-dead-cover-image.png"

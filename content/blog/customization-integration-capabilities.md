@@ -4,7 +4,7 @@ date: "2025-03-20"
 description: "Explore how Perspective AI's flexible integration and customization capabilities allow businesses to embed powerful customer conversations within their existing tech stack and workflows."
 keywords: ["integration capabilities", "API integration", "customization options", "CRM integration", "workflow automation", "enterprise integration", "feedback system integration", "Perspective AI customization"]
 author: "Perspective AI Team"
-category: "Product Features"
+category: "Product Insights & Features"
 slug: "customization-integration-capabilities"
 excerpt: "Learn how Perspective AI seamlessly connects with your existing business systems with flexible APIs, pre-built connectors, and customizable workflows that adapt to your specific business needs."
 image: "/images/blog/customized-integration-capabilities.png"

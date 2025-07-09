@@ -4,7 +4,7 @@ date: "2025-05-29"
 description: "Our latest research reveals a striking disconnect between how AI companies position their solutions and what actually drives buyer decisions."
 keywords: ["research", "growth strategy", "product strategy", "SaaS tools", "customer research", "AI in research", "automation", "analytics", "B2B SaaS", "customer feedback"]
 author: "Perspective AI Team"
-category: "Market Research"
+category: "Customer Insights & Research"
 slug: "why-74-percent-of-ai-buyers-reject-the-speed-vs-accuracy-trade-off"
 excerpt: "Our latest research reveals a striking disconnect between how AI companies position their solutions and what actually drives buyer decisions."
 image: "/images/blog/speed-vs-accuracy.png"

@@ -4,7 +4,7 @@ date: "2025-06-18"
 description: "Discover the latest trends shaping the AI consulting services industry, from generative AI to AI strategy consulting. Learn how to stay competitive in this evolving landscape."
 keywords: ["ai consulting services", "artificial intelligence consulting", "ai consultant", "ai consulting firms", "ai strategy consulting", "generative ai consulting", "ai business consulting"]
 author: "Perspective AI Team"
-category: "AI Consulting"
+category: "AI Consulting Trends & Strategies"
 slug: "trends-shaping-ai-consulting-industry"
 excerpt: "From generative AI breakthroughs to strategic transformation consulting, explore the key trends revolutionizing how businesses approach artificial intelligence consulting services."
 image: "/images/blog/trends-in-ai-consulting-cover-image.png"

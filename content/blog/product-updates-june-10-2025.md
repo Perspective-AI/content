@@ -4,7 +4,7 @@ date: "2025-06-10"
 description: "Today, we're rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
 keywords: ["Perspective AI", "Perspective AI Product Updates", "Product Updates", "SaaS tools", "Customer Research", "AI in research", "AI-Powered Research", "AI-Driven Research", "Deep Research", "Deep Customer Research", "AI Reasoning", "B2B SaaS", "Customer Feedback", "Product Research"]
 author: "Perspective AI Team"
-category: "Product Updates"
+category: "Product News & Updates"
 slug: "product-updates-june-10th-2025"
 excerpt: "Today, we're rolling out a huge set of new features and improvements designed to streamline every step of your workflow, from participant authentication to advanced reporting and analysis."
 image: "/images/blog/product-updates-june-2025.png"

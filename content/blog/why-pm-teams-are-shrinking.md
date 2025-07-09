@@ -4,7 +4,7 @@ date: "2025-06-17"
 description: "Discover why AI-driven automation is reducing product management teams and how surviving PMs can redefine their roles to thrive."
 keywords: ["product management trends", "AI in product management", "future of product management", "strategic product management", "PM career advice", "AI automation impact", "product team structure"]
 author: "Perspective AI Team"
-category: "Product Management"
+category: "Modern Product Management"
 slug: "why-pm-teams-are-shrinking-and-what-it-means-for-those-who-remain"
 excerpt: "AI is shrinking PM teams, eliminating routine tasks, and elevating expectations. Find out how surviving product managers can become indispensable strategic leaders."
 image: "/images/blog/reshaping-product-management.png"
