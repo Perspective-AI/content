@@ -4,7 +4,7 @@ date: "2025-07-10"
 description: "We're introducing grounded quotes, voice model selection, one-click test conversations, bulk participant invites, and quick-start analysis prompts to make research faster and more powerful than ever."
 keywords: ["Perspective AI", "Perspective AI Product Updates", "AI Research Tools", "Grounded Quotes", "Voice Model Selection", "Quick Analysis Prompts", "Bulk Invite Participants", "Test Conversations", "AI in Research", "AI-Powered Analysis"]
 author: "Perspective AI Team"
-category: "Product Updates"
+category: "Product News & Updates"
 slug: "product-updates-july-10th-2025"
 excerpt: "We're introducing grounded quotes, voice model selection, one-click test conversations, bulk participant invites, and quick-start analysis prompts to make research faster and more powerful than ever."
 image: "/images/blog/product-updates-july-2025 1.png"

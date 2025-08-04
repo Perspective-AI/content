@@ -4,7 +4,7 @@ date: "2025-01-30"
 description: "Discover how leading SaaS teams achieve customer clarity, earn strategic influence, and drive growth by turning feedback into action with Perspective AI."
 keywords: ["customer clarity", "customer research", "SaaS teams", "strategic influence", "customer insights", "AI in research", "B2B SaaS", "customer feedback", "AI innovation"]
 author: "Perspective AI Team"
-category: "Customer Insights & Research"
+category: "Business & Organizational Strategy"
 slug: "customer-clarity-how-winning-teams-secure-their-seat-at-the-table"
 excerpt: "we're thrilled to announce our public launch and our seed funding today. But more importantly, we want to tell you why we exist: to introduce Customer Clarity"
 image: "/images/blog/seat-at-the-table.png"

@@ -4,7 +4,7 @@ date: "2025-07-09"
 description: "A practical guide to evaluating modern qualitative research platforms for scale, speed, and synthesis in 2025."
 keywords: ["qualitative research", "qualitative interviews", "qual research platform", "qualitative research platform", "AI research tools", "research synthesis", "research repository"]
 author: "Perspective AI Team"
-category: "Customer Research"
+category: "Business & Organizational Strategy"
 slug: "qual-research-platform-standard-2025"
 excerpt: "In 2025, evaluating a qualitative research platform means more than just checking for transcription. This post outlines the core capabilities that matter for scaled, synthesized insight generation."
 image: "/images/blog/qual-research-platform-standard-2025-cover.png"

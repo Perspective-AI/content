@@ -4,7 +4,7 @@ date: "2025-07-10"
 description: "Executives increasingly rely on 'AI translators' to interpret insights—but at what cost to accuracy, bias, and decision-making clarity?"
 keywords: ["AI translators", "executive decision-making", "AI adoption", "AI interpretation", "business intelligence", "bias in AI", "AI workflow", "C-suite insights"]
 author: "Perspective AI Team"
-category: "Organizational Strategy"
+category: "Business & Organizational Strategy"
 slug: "rise-of-ai-translators"
 excerpt: "Executives are leaning on 'AI translators'—staff who interpret AI insights for them. This blog explores the benefits, risks, and best practices for managing this growing dynamic."
 image: "/images/blog/rise-of-ai-translators-cover.png"

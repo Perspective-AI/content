@@ -4,7 +4,7 @@ date: "2024-12-07"
 description: "Traditional NPS surveys fail to capture the full customer experience in 2024. Learn why SaaS leaders are shifting to richer, conversational feedback to drive real growth."
 keywords: ["NPS surveys", "customer feedback", "SaaS research tools", "conversational feedback", "customer insights", "B2B SaaS", "AI in research", "modern customer experience"]
 author: "Perspective AI Team"
-category: "Customer Insights & Research"
+category: "Business & Organizational Strategy"
 slug: "why-traditional-nps-surveys-are-not-enough-in-2024"
 excerpt: "Are NPS surveys falling short? Discover why today's SaaS leaders are moving beyond outdated metrics and embracing richer, more actionable customer conversations."
 image: "/images/blog/why-nps-surveys-arent-enough.png"

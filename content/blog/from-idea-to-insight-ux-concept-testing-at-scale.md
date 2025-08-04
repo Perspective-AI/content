@@ -4,7 +4,7 @@ date: "2025-07-09"
 description: "Learn how to scale UX concept testing using AI-powered interviews that uncover user expectations, mental models, and early design feedback—before you build."
 keywords: ["ux concept testing", "ai-powered user research", "early-stage design testing", "scalable ux research", "concept validation", "ai ux testing", "ux interviews", "product feedback"]
 author: "Perspective AI Team"
-category: "UX Research"
+category: "Design & UX"
 slug: "from-idea-to-insight-ux-concept-testing-at-scale"
 excerpt: "Discover how AI can make UX concept testing faster, more scalable, and more insightful—allowing you to validate ideas before investing in design and development."
 image: "/images/blog/ux-concept-testing-at-scale-cover.png"

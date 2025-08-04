@@ -4,7 +4,7 @@ date: "2025-04-01"
 description: "For Chief Customer Officers: Discover why traditional voice of customer programs fail, how departmental silos create contradictory customer views, and how Perspective AI creates alignment through shared human access to insights."
 keywords: ["team alignment customer insights", "shared voice of customer", "breaking down silos", "customer feedback alignment", "cross-functional collaboration", "customer experience consistency", "Perspective AI", "Chief Customer Officer"]
 author: "Perspective AI Team"
-category: "Team Alignment & Organizational Strategy"
+category: "Business & Organizational Strategy"
 slug: "team-alignment-shared-customer-insights"
 excerpt: "Chief Customer Officers face a harsh reality: despite investing in VoC programs, your teams operate with conflicting views of customer needs. Learn how Perspective AI creates organizational alignment by giving all humans access to shared customer insights that drive consistent experiences."
 tags: ["Team & Organizational Alignment", "Customer Insights & Research"]

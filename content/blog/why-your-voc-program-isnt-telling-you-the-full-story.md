@@ -4,7 +4,7 @@ date: "2025-02-12"
 description: "Most VOC programs miss the mark on capturing true customer experience. Discover the gaps—and how leading teams use richer feedback to unlock deeper customer insights and action."
 keywords: ["VOC program", "customer insights", "customer feedback", "customer experience", "customer understanding", "qualitative research", "B2B SaaS", "AI in research"]
 author: "Perspective AI Team"
-category: "Customer Intelligence"
+category: "Business & Organizational Strategy"
 slug: "why-your-voc-program-isnt-telling-you-the-full-story"
 excerpt: "Your VOC program might be missing what matters most. Learn why top SaaS teams are rethinking feedback—and how you can get the full story straight from your customers."
 image: "/images/blog/voc-program-improvement-cover.jpeg"

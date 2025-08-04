@@ -4,7 +4,7 @@ date: "2025-02-06"
 description: "Learn why great companies move beyond generic surveys to uncover deeper customer insights—and how to avoid the lowest common denominator trap in your decision-making."
 keywords: ["survey alternatives", "customer journey", "customer insights", "qualitative research", "customer understanding", "decision-making", "B2B SaaS", "AI in research"]
 author: "Perspective AI Team"
-category: "Customer Insights & Research"
+category: "Business & Organizational Strategy"
 slug: "avoiding-the-lowest-common-denominator-trap"
 excerpt: "Relying on generic surveys keeps you stuck with surface-level data. Find out how winning teams escape the lowest common denominator trap and unlock richer, more actionable customer insights."
 image: "/images/blog/lowest-common-denominator-trap.png"
