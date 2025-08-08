@@ -15,7 +15,7 @@ updated: "2025-08-08"
 
 ## Voice Agents by Perspective AI Launches to #3 on Product Hunt, Leads Multiple Categories  
 
-**San Francisco, CA – August 8, 2025** — We’re thrilled to announce that our new **Voice Agents** platform launched this week on Product Hunt, reaching **#3 Product of the Day** and topping the charts in *User Experience*, *Customer Communication*, *User Research*, and *Voice Agents*. We were also featured in the **Product Hunt Daily Newsletter**, which put us alongside some of the most exciting product launches this month.  
+We’re thrilled to announce that our new **Voice Agents** platform launched this week on Product Hunt, reaching **#3 Product of the Day** and topping the charts in *User Experience*, *Customer Communication*, *User Research*, and *Voice Agents*. We were also featured in the **Product Hunt Daily Newsletter**, which put us alongside some of the most exciting product launches this month.  
 
 With Voice Agents, our goal is simple: make it possible for teams to have **natural, human-sounding conversations with customers—anytime, anywhere, in any language**. We designed it to feel like working with the world’s best interviewer — someone who listens with compassion, builds rapport, and asks nuanced follow-ups until they uncover the truth.  
 
