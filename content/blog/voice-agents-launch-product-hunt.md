@@ -14,7 +14,7 @@ updated: "2025-08-08"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="https://www.producthunt.com/products/perspective-ai?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-voice&#0045;agents&#0045;by&#0045;perspective&#0045;ai&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=997628&theme=light&period=daily&t=1754892704386" alt="Voice&#0032;Agents&#0032;by&#0045;Perspective&#0032;AI - Research&#0032;teams&#0032;trust&#0046;&#0032;Conversations&#0032;customers&#0032;love&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/perspective-ai?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-voice-agents-by-perspective-ai-3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=997628&theme=light&period=daily&t=1754892704386" alt="Voice Agents by Perspective AI - Research teams trust. Conversations customers love. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 </div>
 
 ## Voice Agents by Perspective AI Launches to #3 on Product Hunt, Leads Multiple Categories  
