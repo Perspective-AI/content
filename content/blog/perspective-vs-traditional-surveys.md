@@ -130,4 +130,4 @@ Organizations should consider transitioning to Perspective AI's conversational a
 
 **Self-Assessment Question**: Are your current surveys telling you what you already know, or are they revealing unexpected insights that drive innovation?
 
-For a personalized assessment of how Perspective AI could transform your customer feedback program, [schedule a conversation](https://getperspective.ai/demo) with our team today. 
+For a personalized assessment of how Perspective AI could transform your customer feedback program, [schedule a conversation](https://meetings.hubspot.com/brian2079) with our team today. 
