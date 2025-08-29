@@ -414,8 +414,6 @@ Evaluate your current systems and integration needs:
 - Assess technical resources and capabilities
 - Prioritize integration points based on business impact
 
-**Readiness Tool**: [Integration Readiness Assessment](https://getperspective.ai/resources/integration-assessment)
-
 ### 2. Integration Planning Workshop
 
 Work with our integration specialists to design your implementation:
@@ -424,8 +422,6 @@ Work with our integration specialists to design your implementation:
 - Create integration architecture
 - Develop implementation timeline
 - Assign resources and responsibilities
-
-**Planning Resource**: [Integration Planning Workshop Guide](https://getperspective.ai/resources/integration-workshop)
 
 ### 3. Technical Implementation
 
@@ -436,8 +432,6 @@ Execute the integration plan with our support:
 - Establish security controls
 - Complete integration testing
 
-**Implementation Tool**: [Integration Implementation Playbook](https://getperspective.ai/resources/integration-playbook)
-
 ### 4. Validation and Optimization
 
 Ensure your integration delivers maximum value:
@@ -447,8 +441,6 @@ Ensure your integration delivers maximum value:
 - Train administrators on management
 - Identify optimization opportunities
 
-**Validation Framework**: [Integration Quality Assurance Guide](https://getperspective.ai/resources/integration-qa)
-
 ---
 
-Ready to integrate powerful customer conversations with your business ecosystem? [Schedule an integration consultation](https://getperspective.ai/demo) to explore how Perspective AI can connect seamlessly with your existing systems. 
+Ready to integrate powerful customer conversations with your business ecosystem? [Schedule an integration consultation](https://meetings.hubspot.com/brian2079) to explore how Perspective AI can connect seamlessly with your existing systems. 
