@@ -8,7 +8,7 @@ author: "Perspective AI Team"
 category: "Business & Organizational Strategy"
 slug: "smart-ways-ai-saves-time"
 excerpt: "In 2025, AI isn't just a time-saver — it's a growth engine. This guide shows how small businesses are turning efficiency into strategy using real-world insights from recent research."
-image: "/images/blog/5-smart-ways-ai-saves-time-cover-image.png"
+image: "/images/blog/five-smart-ways-ai-saves-time-cover-image.png"
 tags: ["AI & Automation", "Business Growth & Retention"]
 headings: ["Reinvest Time Into Customer Relationships", "Build Uniqueness Into Content & Brand", "Redirect Energy Into Higher-Value Work", "Track Your AI Leverage Ratio (ALR)", "Treat Efficiency as a Budget — and Allocate It Wisely"]
 updated: "2025-09-17"
