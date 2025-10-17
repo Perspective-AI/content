@@ -3,7 +3,7 @@ title: "Creating Research Outlines in Perspective AI"
 description: "Learn how to create and refine research outlines that guide Perspective AI to conduct effective user interviews aligned with your research goals."
 date: "2025-10-16"
 tags: ["research-outlines", "interviews", "getting-started", "user-research"]
-nav_order: 
+nav_order: 1
 nav_display: true
 ---
 
