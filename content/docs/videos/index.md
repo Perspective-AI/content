@@ -1,1 +1,1 @@
-[Create Research Outlines](/videos/create-research-outlines)
+[Create Research Outlines](/docs/videos/create-research-outlines)
