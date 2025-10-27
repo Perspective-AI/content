@@ -2,7 +2,8 @@
 title: "How To Create Research Outlines in Perspective AI"
 description: "Learn how to set up AI-powered user interviews that deliver actionable insights. "
 date: "2025-10-27"
-tags: ["getting-started", "analysis session"]
+tags: ["getting-started", "research"]
+thumbnail: /images/thumbnails/CreateResearchThumbnail.png
 nav_order: 2
 nav_display: true
 ---
