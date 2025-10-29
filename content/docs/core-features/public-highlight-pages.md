@@ -3,7 +3,7 @@ title: "Publishing and Sharing Research: Public Highlight Pages Guide"
 description: "Learn how to create, customize, and publish Public Highlight Pages in Perspective AI. This guide covers everything you need to know to present your research, case studies, or guides—internally or with the world—in a beautiful, accessible format."
 date: "2025-06-10"
 tags: []
-nav_order: 4
+nav_order: 5
 nav_display: true
 ---
 
