@@ -71,7 +71,7 @@ Every post-interview email automatically includes the form fields and the partic
 
 Switch to the Form Fields view for any conversation summary directly in Perspective. This view displays all structured data captured during the interview.
 
-![Form fields view in conversation summary](/image/switch-to-form-data-view.png "screenshot")
+![Form fields view in conversation summary](/images/switch-to-form-data-view.png "screenshot")
 *Access form field data from any conversation summary using the Form Fields view.*
 
 ## Best Practices
