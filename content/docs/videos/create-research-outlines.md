@@ -4,7 +4,7 @@ description: "Learn how to set up AI-powered user interviews that deliver action
 date: "2025-10-27"
 tags: ["getting-started", "research"]
 thumbnail: /images/thumbnails/CreateResearchThumbnail.png
-nav_order: 2
+nav_order: 1
 nav_display: true
 ---
 Learn how to set up AI-powered user interviews that deliver actionable insights. This concise tutorial walks you through creating research outlines—the instruction sets that guide Perspective AI to conduct effective interviews aligned with your business goals.
