@@ -100,8 +100,3 @@ Switch to the Form Fields view for any conversation summary directly in Perspect
 
 Form fields are available for Perspective customers on all plans. Try adding them to your next research outline to streamline data collection.
 
-## Related Resources
-
-- [Creating Research Outlines](#) – Learn how to set up research outlines from scratch
-- [Interview Types Reference](#) – Understand which interview methodologies work best with form fields
-- [Mandatory Questions](#) – Compare form fields with mandatory questions to choose the right approach
