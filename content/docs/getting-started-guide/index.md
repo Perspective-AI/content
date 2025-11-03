@@ -9,6 +9,7 @@ Welcome to the Perspective Quick Start Guide. This section will help you set and
 ## In this section
 
 - [How to Create Research Outlines](/docs/getting-started-guide/create-research-outlines)
+- [Inviting Participants to Your Research](/docs/getting-started-guide/invite-participants)
 - [How to Analyze Interviews](/docs/getting-started-guide/analysis-sessions)
 - [Profile Setup](/docs/getting-started-guide/profile-setup)
 
