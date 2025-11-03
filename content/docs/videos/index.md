@@ -10,3 +10,4 @@ Browse by category below to find step-by-step guides, feature deep-dives, produc
 ## Core Features
 - [Create Research Outlines](/docs/videos/create-research-outlines)
 - [Adding Form Fields To Research Outlines](/docs/videos/add-form-fields)
+- [Inviting Participants to Your Research](/docs/videos/invite-participants)
