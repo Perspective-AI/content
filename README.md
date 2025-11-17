@@ -22,7 +22,8 @@ To get started with Perspective, follow these steps:
 ## Documentation
 For detailed instructions and best practices, refer to the following documentation sections:
 - [Getting Started Guide](content/docs/getting-started-guide/index.md)
-- [Core Features](content/docs/core-features/index.md)
+- [Conduct Research](content/docs/conduct-research/index.md)
+- [Analyze Research](content/docs/analyze-research/index.md)
 - [Administration](content/docs/admin/index.md)
 
 ## Contributing
