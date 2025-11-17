@@ -5,5 +5,13 @@ nav_order: 4
 ---
 ## Administration Documentation
 
-This section is currently under construction. Check back for updates soon!
+This section covers administrative tasks for managing your Perspective account, including workspace management, team collaboration, and billing.
+
+## Workspace Management
+
+- [Create and Manage Workspaces](/docs/admin/workspaces)
+
+## Billing and Credits
+
+- [Pricing and Credits](/docs/admin/pricing-and-credits)
 
