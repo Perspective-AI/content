@@ -11,7 +11,3 @@ This section covers administrative tasks for managing your Perspective account, 
 
 - [Create and Manage Workspaces](/docs/admin/workspaces)
 
-## Billing and Credits
-
-- [Pricing and Credits](/docs/admin/pricing-and-credits)
-
