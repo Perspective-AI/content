@@ -11,3 +11,4 @@ Browse by category below to find step-by-step guides, feature deep-dives, produc
 - [Create Research Outlines](/docs/videos/create-research-outlines)
 - [Adding Form Fields To Research Outlines](/docs/videos/add-form-fields)
 - [Inviting Participants to Your Research](/docs/videos/invite-participants)
+- [Integrating Perspective AI with User Interviews](/docs/videos/user-interviews-integration)
