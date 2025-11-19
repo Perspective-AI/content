@@ -12,4 +12,4 @@ Browse by category below to find step-by-step guides, feature deep-dives, produc
 - [Adding Form Fields To Research Outlines](/docs/videos/add-form-fields)
 - [Inviting Participants to Your Research](/docs/videos/invite-participants)
 - [Integrating Perspective AI with User Interviews](/docs/videos/user-interviews-integration)
-- [Create and Manage Participant Groups](/docs/videos/create-participant-groups.md)
+- [Create and Manage Participant Groups](/docs/videos/create-participant-groups)
