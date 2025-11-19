@@ -3,7 +3,7 @@ title: "Adding Form Fields to Research Outlines"
 description: "Capture standardized information during interviews with form fields that maintain conversational flow while delivering structured, scannable data."
 date: "2025-10-29"
 tags: ["form-fields", "research-outlines", "structured-data", "interviews"]
-nav_order: 3
+nav_order: 1
 nav_display: true
 ---
 
