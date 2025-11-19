@@ -13,6 +13,7 @@ Perspective offers powerful features to help you set up, organize, and conduct r
 
 ## Recruit Participants
 
+- [Creating and Managing Participant Groups](/docs/conduct-research/create-participant-groups)
 - [Inviting Participants to Your Research](/docs/getting-started-guide/invite-participants)
 - [Integrating Perspective AI With User Interviews](/docs/conduct-research/sync-status-with-user-interviews)
 
