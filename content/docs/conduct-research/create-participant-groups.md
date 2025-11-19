@@ -3,7 +3,7 @@ title: "Creating and Managing Participant Groups"
 description: "Organize research participants into reusable groups for easier recruiting and longitudinal research tracking across multiple studies."
 date: "2025-11-04"
 tags: ["participant-groups", "recruiting", "organization", "participant-management"]
-nav_order: 4
+nav_order: 2
 nav_display: true
 ---
 
