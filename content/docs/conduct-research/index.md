@@ -10,6 +10,7 @@ Perspective offers powerful features to help you set up, organize, and conduct r
 - [How to Create Research Outlines](/docs/getting-started-guide/create-research-outlines)
 - [How to Use Link Summaries](/docs/conduct-research/link-summaries)
 - [Adding Form Fields To Research Outlines](/docs/conduct-research/add-form-fields)
+- [Using URL Parameters to Customize Interviews](/docs/conduct-research/url-parapeters)
 
 ## Recruit Participants
 
