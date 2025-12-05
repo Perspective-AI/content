@@ -7,7 +7,7 @@ author: "Perspective AI Team"
 category: "AI & Technology Trends"
 slug: "anthropic-interviewer"
 excerpt: "Anthropic Runs AI-Led Interviews Internally, Why Aren’t You?"
-image: "content/public/images/blog/anthropic-launches-ai-interviewer-hero.png"
+image: "/images/blog/anthropic-launches-ai-interviewer-hero.png"
 tags: ["AI & Automation", "Customer Insights & Research"]
 headings: ["If Anthropic Runs AI-Led Interviews Internally, Why Aren’t You?", "What Anthropic Is Really Saying (Even If They Don’t Spell It Out)", "Participants Didn’t Hate It. They Loved It.", "This Isn’t About AI Companies. It’s About How You Learn.", "Where Perspective AI Comes In", "What You Should Actually Do This Month"]
 updated: "2025-12-05"
