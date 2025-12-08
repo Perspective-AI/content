@@ -11,7 +11,7 @@ Perspective offers powerful features to help you set up, organize, and conduct r
 - [How to Use Link Summaries](/docs/conduct-research/link-summaries)
 - [Adding Form Fields To Research Outlines](/docs/conduct-research/add-form-fields)
 - [Using URL Parameters to Customize Interviews](/docs/conduct-research/url-parapeters)
-- [How To Create Completion Flows](/docs/conduct-research/completion-flows)
+- [Create Completion Flows For Conditional Routing](/docs/conduct-research/completion-flows)
 
 ## Recruit Participants
 
