@@ -1,8 +1,8 @@
 ---
-title: "Adding Form Fields to Research Outlines"
-description: "Capture standardized information during conversational interviews without disrupting natural flow."
+title: "Creating Completion Flows for Conditional Routing"
+description: "Automatically route participants to different destinations at the end of interviews based on what was discussed, creating personalized next steps."
 date: "2025-10-29"
-tags: ["getting-started", "research"]
+tags: ["completion-flows", "research"]
 thumbnail: /images/thumbnails/completion-flows-thumbnail.png
 nav_order: 6
 nav_display: true
