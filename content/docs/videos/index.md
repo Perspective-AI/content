@@ -13,3 +13,4 @@ Browse by category below to find step-by-step guides, feature deep-dives, produc
 - [Inviting Participants to Your Research](/docs/videos/invite-participants)
 - [Integrating Perspective AI with User Interviews](/docs/videos/user-interviews-integration)
 - [Create and Manage Participant Groups](/docs/videos/create-participant-groups)
+- [Create Completion Flows for Conditional Routing](/docs/videos/completion-flows)
