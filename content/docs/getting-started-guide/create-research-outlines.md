@@ -69,6 +69,8 @@ Based on your objectives, Perspective automatically determines the most appropri
 
 You don't need to specify the research type—it's determined automatically to ensure the interview methodology aligns with what you're trying to learn.
 
+**Note:** While the research type is automatically selected based on your goals, you can request a change if needed by telling Perspective which type you prefer. However, we generally don't recommend this, as the automatic classification is designed to match the methodology to your objectives. Only change the research type if you have specific methodological requirements.
+
 ### Description
 Clearly states what is being researched and by whom, providing context for the interview.
 
