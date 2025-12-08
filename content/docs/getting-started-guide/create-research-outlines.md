@@ -54,8 +54,20 @@ Respond to clarifying questions to help the system understand your research obje
 
 Your generated outline includes several key elements:
 
-### Interview Type
-Defines the research methodology (e.g., exploratory, evaluative, generative). See the [interview types reference](#) for detailed explanations of each type and their intended purposes.
+### Research Type
+Based on your objectives, Perspective automatically determines the most appropriate research approach:
+
+**Exploratory** – Discovering problems, needs, and opportunities without preconceived solutions
+
+**Evaluative** – Assessing existing solutions, features, or experiences
+
+**Concept Testing** – Gathering reactions to proposed ideas or designs
+
+**Generative** – Creating new ideas and possibilities with participants
+
+**Other types** – The system adapts to match your specific research goals
+
+You don't need to specify the research type—it's determined automatically to ensure the interview methodology aligns with what you're trying to learn.
 
 ### Description
 Clearly states what is being researched and by whom, providing context for the interview.
