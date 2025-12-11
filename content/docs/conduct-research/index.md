@@ -13,6 +13,13 @@ Perspective offers powerful features to help you set up, organize, and conduct r
 - [Using URL Parameters to Customize Interviews](/docs/conduct-research/url-parapeters)
 - [Create Completion Flows For Conditional Routing](/docs/conduct-research/completion-flows)
 
+## Agent Types
+
+- [Understanding Agent Types in Perspective AI](/docs/conduct-research/understanding-agent-types)
+- [Creating an Interviewer Agent](/docs/conduct-research/creating-interviewer-agent)
+- [Creating a Concierge Agent](/docs/conduct-research/creating-concierge-agent)
+- [Creating an Evaluator Agent](/docs/conduct-research/creating-evaluator-agent)
+
 ## Recruit Participants
 
 - [Creating and Managing Participant Groups](/docs/conduct-research/create-participant-groups)
