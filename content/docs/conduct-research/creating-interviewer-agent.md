@@ -93,7 +93,7 @@ Explain what you want to understand. Perspective will ask you about:
 
 "I want to understand why customers upgrade to our pro plan—what motivates the decision, how they discovered premium features, and what would make the plan more valuable to them."
 
-![Research question input field](/images/create-interviewer-agent.png "screenshot")
+![Research question input field](/images/create-interviewer-agent-prompt.png "screenshot")
 *Describe what you want to explore and answer questions about your research goals.*
 
 ### Step 3: Answer clarifying questions
