@@ -44,9 +44,6 @@ Choose Button for unobtrusive placement that doesn't interrupt page flow.
 
 Once you select a type, Perspective generates the embed code automatically. Copy the snippet and paste it into your site's HTML, or forward it to your development team.
 
-![Generated embed code with copy button](/images/embed-code-generated.png "screenshot")
-*Copy the generated code and paste it into your HTML.*
-
 **Preview before deploying**: You can test the Inline embed and all three Button styles (Popup, Slider, Chat) directly from the embed panel using the preview option. This lets you verify the experience before adding code to your site.
 
 ![Inline embed preview showing interview in page](/images/embed-preview-inline.gif "animated")
