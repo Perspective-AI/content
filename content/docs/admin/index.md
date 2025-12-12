@@ -10,4 +10,4 @@ This section covers administrative tasks for managing your Perspective account, 
 ## Workspace Management
 
 - [Create and Manage Workspaces](/docs/admin/workspaces)
-
+- [Use The Perspective AI MCP Server](/docs/admin/perspective-ai-mcp-server)
