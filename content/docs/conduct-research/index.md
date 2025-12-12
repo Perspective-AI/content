@@ -24,6 +24,7 @@ Perspective offers powerful features to help you set up, organize, and conduct r
 
 - [Creating and Managing Participant Groups](/docs/conduct-research/create-participant-groups)
 - [Inviting Participants to Your Research](/docs/getting-started-guide/invite-participants)
+- [Embed Interviews on Your Website or App](/docs/conduct-research/embed-interviews)
 - [Integrating Perspective AI With User Interviews](/docs/conduct-research/sync-status-with-user-interviews)
 
 Explore each feature to learn how Perspective can help you conduct effective research interviews.
