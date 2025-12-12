@@ -52,7 +52,7 @@ Once you select a type, Perspective generates the embed code automatically. Copy
 ![Button embed previews cycling through Popup, Slider, and Chat styles](/images/embed-preview-button.gif "animated")
 *Test all three Button styles to choose the best fit for your site.*
 
-For technical teams using AI-assisted development tools, you can integrate via the [**Perspective AI MCP server**.](/docs/admin/perspective-ai-mcp-server) This lets you add embed code directly from Cursor, Codeium, Claude Code, or any IDE supporting custom MCPs.
+For technical teams using AI-assisted development tools, you can integrate via the [**Perspective AI MCP server**.](/docs/admin/mcp) This lets you add embed code directly from Cursor, Codeium, Claude Code, or any IDE supporting custom MCPs.
 
 ## Best Practices
 
