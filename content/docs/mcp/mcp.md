@@ -3,7 +3,7 @@ title: "Use the Perspective AI MCP Server"
 description: "Connect Perspective to Claude Desktop, Claude Code, or Cursor to create agents, analyze interviews, and deploy embeds directly from your AI assistant."
 date: "2025-12-12"
 tags: ["mcp", "integration", "ai-assistant", "workflow"]
-nav_order: 7
+nav_order: 1
 nav_display: true
 ---
 
@@ -117,3 +117,4 @@ Ask: "Generate the inline embed code for the product feedback outline and add it
 
 **Issue**: Token shows "Never" under "Last used"  
 **Fix**: This updates after the first successful request. Try a simple command like "list my interview outlines" to verify the connection is working.
+
