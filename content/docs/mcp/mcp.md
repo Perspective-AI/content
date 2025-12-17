@@ -1,5 +1,5 @@
 ---
-title: "Use the Perspective AI MCP Server"
+title: "Use the Perspective AI MCP"
 description: "Connect Perspective to Claude Desktop, Claude Code, or Cursor to create agents, analyze interviews, and deploy embeds directly from your AI assistant."
 date: "2025-12-12"
 tags: ["mcp", "integration", "ai-assistant", "workflow"]
