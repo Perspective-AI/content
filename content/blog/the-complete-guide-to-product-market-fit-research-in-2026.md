@@ -322,7 +322,3 @@ The question isn't whether you can afford to do PMF research. It's whether you c
 [→ Discover what problem they're really solving](https://getperspective.ai/research/new?question=What%20problem%20were%20you%20trying%20to%20solve%20when%20you%20started%20looking%20for%20a%20solution%20like%20ours%3F)
 
 [→ Find out what alternatives they'd consider](https://getperspective.ai/research/new?question=What%20would%20you%20do%20if%20you%20could%20no%20longer%20use%20our%20product%3F%20What%20alternatives%20would%20you%20consider%3F)
-
----
-
-*Further reading: [How to reduce churn with customer research](/blog/reduce-churn-customer-research) | [Voice of Customer best practices](/blog/voice-of-customer-best-practices)*
