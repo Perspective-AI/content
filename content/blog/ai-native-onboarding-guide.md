@@ -7,7 +7,7 @@ author: "Perspective AI Team"
 category: "Guides"
 slug: "ai-native-onboarding-guide"
 excerpt: "AI-native onboarding replaces forms with conversations that adapt in real time. A practical guide for product managers evaluating AI onboarding tools."
-image: "https://getperspective.agency/assets/38adcf0e-ccea-4a5a-af79-4aac712a7881"
+image: "/images/blog/ai-native-onboarding-guide-hero.png"
 tags: ["ai onboarding tools", "ai-native onboarding", "product management", "customer research"]
 headings: ["What AI-Native Onboarding Actually Means", "Why Traditional Onboarding Fails Product Teams", "The AI-Native Onboarding Stack", "How to Evaluate AI Onboarding Tools", "Getting Started: From Forms to Conversations", "FAQ", "Conclusion"]
 updated: "2026-02-17"
