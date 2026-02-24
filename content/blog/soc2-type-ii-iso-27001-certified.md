@@ -70,4 +70,4 @@ What changed: an independent third party verified it. That's the point.
 
 *Visit [trust.getperspective.ai](https://trust.getperspective.ai) to review certifications and request our SOC 2 Type II report.*
 
-*Exploring Perspective AI? [Book a demo](https://getperspective.ai/demo) — we'll walk through our security architecture with your team.*
+*Ready to try Perspective AI? [Get started for free](https://getperspective.ai).*
