@@ -58,7 +58,7 @@ Our SOC 2 Type II report covers:
 - **Availability** — uptime commitments and platform reliability
 - **Confidentiality** — how we handle, store, and restrict access to customer data
 
-Review our security posture at [trust.getperspective.ai](https://trust.getperspective.ai).
+Review our security posture and request our SOC 2 report at our [Trust Center](https://app.vanta.com/getperspective.ai/trust/uozs3vvs7i9m917jpclisq).
 
 ## What didn't change
 
@@ -68,6 +68,10 @@ What changed: an independent third party verified it. That's the point.
 
 ---
 
-*Visit [trust.getperspective.ai](https://trust.getperspective.ai) to review certifications and request our SOC 2 Type II report.*
+*Visit our [Trust Center](https://app.vanta.com/getperspective.ai/trust/uozs3vvs7i9m917jpclisq) to review certifications and request our SOC 2 Type II report.*
 
-*Exploring Perspective AI? [Book a demo](https://getperspective.ai/demo) — we'll walk through our security architecture with your team.*
+*Ready to try Perspective AI? [Get started for free](https://getperspective.ai).*
+
+---
+
+*A big thank you to the team at [Workstreet](https://workstreet.com) for their partnership and support throughout the certification process.*
