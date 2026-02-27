@@ -9,7 +9,8 @@ Engineering teams use this section to connect Perspective to their environments.
 ## Topics
 
 - [Perspective MCP Server](./mcp.md): install, configure, and use the Model Context Protocol server so Claude Desktop, Cursor, and other MCP-enabled tools can manage agents and interviews.
-- **APIs & Webhooks** _(coming soon)_: endpoint overview, authentication, and sample scripts.
-- **Automation Recipes** _(coming soon)_: examples for syncing data via Zapier/Make, pushing highlights into Slack/Notion, and more.
+- [API Overview](./api-overview.md): base URLs, auth, rate limits, and primary resources (draft).
+- [Webhooks & Automations](./webhooks.md): event payloads, signature verification, and retry behavior (draft).
+- [Automation Recipes](./automation-recipes.md): outline of the most requested Zapier/Make/Snowflake workflows (draft).
 
 Looking for usage guidance instead? Head back to the [Guide](/docs/guide). Need structured lessons? Visit [Training](/docs/training).
