@@ -9,4 +9,4 @@ Turn raw interviews into decisions. Use these guides to review sessions, validat
 - [Trust Assessment](/docs/guide/insights/trust-assessment)
 - [Public Highlight Pages](/docs/guide/insights/public-highlight-pages)
 
-Pair this section with the [Training video lessons](/docs/training/lessons/index.md) if you want to watch the workflows end-to-end.
+Pair this section with the [Training video lessons](/docs/training/lessons/) if you want to watch the workflows end-to-end.
