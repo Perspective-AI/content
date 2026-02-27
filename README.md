@@ -20,11 +20,11 @@ To get started with Perspective, follow these steps:
 3. **Conduct Analysis Sessions**: Analyze feedback and generate actionable insights using Perspective's analysis tools.
 
 ## Documentation
-For detailed instructions and best practices, refer to the following documentation sections:
-- [Getting Started Guide](content/docs/getting-started-guide/index.md)
-- [Conduct Research](content/docs/conduct-research/index.md)
-- [Analyze Research](content/docs/analyze-research/index.md)
-- [Administration](content/docs/admin/index.md)
+For detailed instructions and best practices, refer to the consolidated documentation collections:
+- [Guide: Run Perspective](content/docs/guide/index.md)
+- [Build: Developer & Integration Docs](content/docs/build/index.md)
+- [Training: Lessons & Video Walkthroughs](content/docs/training/index.md)
+- [Examples: Use Cases & Playbooks](content/docs/examples/index.md)
 
 ## Contributing
 We welcome contributions to improve Perspective. If you're interested in contributing, please read our [contributing guidelines](CONTRIBUTING.md).

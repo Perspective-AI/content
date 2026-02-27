@@ -181,11 +181,11 @@ Ready to create an agent? Here's what to do next:
 
 2. **Read the detailed guide** – See the specific article for your chosen agent type:
 
-   - [Creating an Interviewer Agent](/docs/conduct-research/creating-interviewer-agent)
+   - [Creating an Interviewer Agent](/docs/guide/running-programs/creating-interviewer-agent)
 
-   - [Creating a Concierge Agent](/docs/conduct-research/creating-concierge-agent)
+   - [Creating a Concierge Agent](/docs/guide/running-programs/creating-concierge-agent)
 
-   - [Creating an Evaluator Agent](/docs/conduct-research/creating-evaluator-agent)
+   - [Creating an Evaluator Agent](/docs/guide/running-programs/creating-evaluator-agent)
 
 3. **Define your objectives** – Clarify what you want to learn or accomplish
 
