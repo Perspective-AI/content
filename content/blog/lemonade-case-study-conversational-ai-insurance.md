@@ -4,7 +4,7 @@ date: "2026-02-27"
 description: "An insurance chatbot case study: How AI for insurance transformed lead intake, automated quotes in 90 seconds, and drove 55% year-over-year growth—leaving legacy competitors behind."
 keywords: ["conversational ai insurance", "insurance chatbot", "ai for insurance", "ai insurance company", "insurance chatbot use cases"]
 author: "Perspective AI Team"
-category: "Guides"
+category: "Case Studies"
 slug: "lemonade-case-study-conversational-ai-insurance"
 excerpt: "An insurance chatbot case study: How AI for insurance transformed lead intake, automated quotes in 90 seconds, and drove 55% year-over-year growth—leaving legacy competitors behind."
 image: "/images/blog/lemonade-case-study-conversational-ai-insurance-hero.png"
