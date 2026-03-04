@@ -9,7 +9,7 @@ keywords:
   - "voice of customer strategy"
   - "VoC best practices"
 author: "Perspective AI Team"
-category: "Guides"
+category: "AI Customer Interviews & Research"
 slug: "the-complete-guide-to-voice-of-customer-programs-in-2026"
 excerpt: "The complete guide to voice of customer. Learn best practices, tools, and strategies for product teams."
 image: "/images/blog/the-complete-guide-to-voice-of-customer-programs-in-2026-hero.png"

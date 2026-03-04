@@ -4,7 +4,7 @@ date: "2026-02-17"
 description: "AI-native onboarding replaces forms with conversations that adapt in real time. Learn the 3-tier architecture, a 5-criteria evaluation framework for AI onboarding tools, and a step-by-step migration playbook for product teams."
 keywords: ["ai-native onboarding", "ai onboarding tools", "ai onboarding software", "ai-native onboarding tools", "ai enabled onboarding"]
 author: "Perspective AI Team"
-category: "Guides"
+category: "Intelligent Intake"
 slug: "ai-native-onboarding-guide"
 excerpt: "AI-native onboarding replaces forms with conversations that adapt in real time. A practical guide for product managers evaluating AI onboarding tools."
 image: "/images/blog/ai-native-onboarding-guide-hero.png"

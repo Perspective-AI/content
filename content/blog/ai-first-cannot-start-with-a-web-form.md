@@ -4,7 +4,7 @@ date: "2025-12-16"
 description: "Why replacing first-touch web forms with AI-driven interviews captures higher-quality intent, constraints, and decision drivers."
 keywords: ["ai-first onboarding", "ai-driven customer interview", "conversational onboarding", "web forms vs interviews", "customer discovery interviews", "ai intake experience", "voice of customer interview", "product-led onboarding"]
 author: "Perspective AI Team"
-category: "Product Management & Strategy"
+category: "Intelligent Intake"
 slug: "ai-first-cannot-start-with-a-web-form"
 excerpt: "If your first customer touch is still a web form, you are leaving context, intent, and momentum behind. AI-driven interviews capture the signal forms cannot, and turn first touch into a real advantage."
 image: "/images/blog/ai-first-cannot-start-with-a-web-form.png"

@@ -4,7 +4,7 @@ date: "2026-01-09"
 description: "Traditional customer research is expensive and slow. Learn how conversational AI delivers deeper insights at a fraction of the cost—with real examples."
 keywords: ["customer research costs", "expensive customer research", "reduce research costs", "affordable customer insights", "customer research budget"]
 author: "Perspective AI Team"
-category: "Best Practices"
+category: "Product Discovery & UX Research"
 slug: "how-to-solve-customer-research-costs-without-more-surveys"
 excerpt: "Traditional customer research is expensive and slow. Learn how conversational AI delivers deeper insights at a fraction of the cost—with real examples."
 image: "/images/blog/how-to-solve-customer-research-costs-without-more-surveys-hero.png"

@@ -4,7 +4,7 @@ date: "2025-12-16"
 description: "This month brings our most powerful integrations yet—connect Perspective to your favorite AI assistants, deploy three specialized agent types, and automate post-interview routing with intelligent completion flows."
 keywords: ["Perspective AI", "Perspective AI Product Updates", "Product Updates", "SaaS tools", "Customer Research", "AI in research", "AI-Powered Research", "AI-Driven Research", "MCP", "Model Context Protocol", "Agent Types", "Completion Flows", "Embed Interviews"]
 author: "Perspective AI Team"
-category: "Product News & Updates"
+category: "Product Updates"
 slug: "product-updates-december-16th-2025"
 excerpt: "This month brings our most powerful integrations yet—connect Perspective to your favorite AI assistants, deploy three specialized agent types, and automate post-interview routing with intelligent completion flows."
 image: "/images/blog/product-updates-december-2025.png"

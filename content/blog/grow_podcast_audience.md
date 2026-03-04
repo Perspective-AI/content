@@ -5,7 +5,7 @@ date: "2025-09-03"
 description: "Learn how AI podcast research helps independent creators and podcast teams grow their audience faster by understanding what listeners actually want."
 keywords: ["ai podcast research", "how to grow a podcast audience", "grow podcast audience", "podcast listener insights", "audience research for podcasts", "podcast growth strategies", "podcast marketing tools"]
 author: "Perspective AI Team"
-category: "Business & Organizational Strategy"
+category: "Product Discovery & UX Research"
 slug: "grow-podcast-audience-without-guesswork"
 excerpt: "Most podcast growth advice is guesswork. Here’s how independent creators and production teams can use AI-powered research to scale smarter and grow faster."
 image: "/images/blog/how-to-grow-your-podcast-audience-cover-image.png"

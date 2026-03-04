@@ -4,7 +4,7 @@ date: "2026-02-24"
 description: "Perspective AI is now SOC 2 Type II and ISO 27001 certified. Your conversations are protected — now it's official."
 keywords: ["SOC 2 Type II", "ISO 27001", "security certification", "enterprise security", "data protection", "SaaS compliance", "conversational AI security", "trust center"]
 author: "Guy Nirpaz"
-category: "Product News & Updates"
+category: "Product Updates"
 slug: "soc2-type-ii-iso-27001-certified"
 excerpt: "Perspective AI is now SOC 2 Type II and ISO 27001 certified. Your conversations are protected — now it's official."
 image: "/images/blog/soc2-type-ii-iso-27001-certified.png"

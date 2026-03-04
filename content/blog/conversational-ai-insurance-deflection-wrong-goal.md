@@ -4,7 +4,7 @@ date: "2026-02-18"
 description: "Insurance conversational AI obsesses over deflection rates. But the real ROI comes from understanding what policyholders are telling you. A framework for shifting from deflection-first to understanding-first AI."
 keywords: ["conversational ai insurance", "insurance chatbot", "ai for insurance agents", "ai tools for insurance agents", "ai agents for customer service in insurance"]
 author: "Perspective AI Team"
-category: "Guides"
+category: "Intelligent Intake"
 slug: "conversational-ai-insurance-deflection-wrong-goal"
 excerpt: "Insurance conversational AI obsesses over deflection rates. But the real ROI comes from understanding what policyholders are telling you."
 image: "/images/blog/conversational-ai-insurance-deflection-wrong-goal-hero.png"

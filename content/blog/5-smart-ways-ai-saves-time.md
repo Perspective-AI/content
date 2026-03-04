@@ -5,7 +5,7 @@ date: "2025-09-17"
 description: "AI is giving small businesses hours back each week. This post explores how top teams are using that time to drive growth, deepen customer relationships, and differentiate their brand."
 keywords: ["ai tools for small business", "how small businesses use AI", "AI efficiency tools for SMBs", "market research for small businesses", "customer feedback analysis ai", "ai user research", "best ai tools for small businesses 2025"]
 author: "Perspective AI Team"
-category: "Business & Organizational Strategy"
+category: "AI Conversations at Scale"
 slug: "smart-ways-ai-saves-time"
 excerpt: "In 2025, AI isn't just a time-saver — it's a growth engine. This guide shows how small businesses are turning efficiency into strategy using real-world insights from recent research."
 image: "/images/blog/five-smart-ways-ai-saves-time-cover-image.png"

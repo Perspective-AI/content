@@ -4,7 +4,7 @@ date: "2025-12-05"
 description: "Anthropic is using AI-moderated interviews to run user research at scale. Here's why you should be doing the same—and how Perspective AI helps you get there."
 keywords: ["AI interviews", "Anthropic Interviewer", "user research at scale", "AI research methods", "Claude AI", "AI customer research", "AI user insights", "Perspective AI"]
 author: "Perspective AI Team"
-category: "AI & Technology Trends"
+category: "AI Conversations at Scale"
 slug: "anthropic-interviewer"
 excerpt: "Anthropic Runs AI-Led Interviews Internally, Why Aren’t You?"
 image: "/images/blog/anthropic-launches-ai-interviewer-hero.png"

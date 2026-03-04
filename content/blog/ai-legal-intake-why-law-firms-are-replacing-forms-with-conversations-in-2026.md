@@ -4,7 +4,7 @@ date: "2026-03-03"
 description: "67% of potential clients abandon law firm intake forms. Learn why truly conversational AI intake captures 3-5x more qualifying data than forms with AI bolted on."
 keywords: ["ai legal intake", "law firm intake software", "attorney intake software", "legal intake solution", "ai client intake law firm", "best legal intake forms software", "leading legal intake tools on the market"]
 author: "Perspective AI Team"
-category: "Legal Tech"
+category: "Intelligent Intake"
 slug: "ai-legal-intake-why-law-firms-are-replacing-forms-with-conversations-in-2026"
 excerpt: "Most 'AI legal intake' tools are just forms with automation bolted on. Here's why the firms winning in 2026 are replacing forms entirely with conversational AI — and seeing 3x more qualified consultations."
 image: "/images/blog/ai-legal-intake-why-law-firms-are-replacing-forms-with-conversations-in-2026-hero.png"

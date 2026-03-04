@@ -4,7 +4,7 @@ date: "2025-08-19"
 description: "A practical guide to structuring market research that influences real decisions—instead of gathering dust."
 keywords: ["market research strategy template", "market research template", "market research analysis template", "format for market research report", "template for market analysis", "market study format", "customer research template", "market research report example"]
 author: "Perspective AI Team"
-category: "Business & Organizational Strategy"
+category: "Product Discovery & UX Research"
 slug: "market-research-strategy-template"
 excerpt: "Learn how to build a market research strategy template that drives action, aligns teams, and informs product, pricing, and messaging decisions."
 image: "/images/blog/market-research-strategy-template-cover.png"

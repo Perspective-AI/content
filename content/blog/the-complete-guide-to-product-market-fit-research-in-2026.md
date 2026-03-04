@@ -4,7 +4,7 @@ date: "2026-01-13"
 description: "Master product-market fit research with modern methods. Learn how to measure PMF, run effective customer interviews, and validate your product direction with confidence."
 keywords: ["product-market fit", "PMF research", "customer research", "startup validation", "product validation"]
 author: "Perspective AI Team"
-category: "Guides"
+category: "Product Discovery & UX Research"
 slug: "the-complete-guide-to-product-market-fit-research-in-2026"
 excerpt: "Master product-market fit research with modern methods. Learn how to measure PMF, run effective customer interviews, and validate your product direction."
 image: "https://getperspective.agency/assets/d966e1d7-988c-4b74-975a-f80a821a68aa"

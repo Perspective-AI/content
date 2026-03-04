@@ -4,7 +4,7 @@ date: "2025-08-08"
 description: "Perspective AI's new Voice Agents platform reaches #3 Product of the Day on Product Hunt, leads multiple categories, and launches with a special 75% off Pro Plan celebration offer."
 keywords: ["Voice Agents", "Product Hunt launch", "customer communication", "user research", "AI research tools", "voice AI", "UX research", "customer feedback"]
 author: "Perspective AI Team"
-category: "Product News & Updates"
+category: "Product Updates"
 slug: "voice-agents-launch-product-hunt"
 excerpt: "We launched Voice Agents on Product Hunt, reached #3 Product of the Day, led four categories, and are celebrating with a 75% off Pro Plan subscription offer."
 image: "/images/blog/Voice-Agents-Product-Hunt-Launch-Cover.png"
