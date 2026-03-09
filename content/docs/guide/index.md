@@ -10,12 +10,12 @@ Welcome to the Guide. This collection walks product, research, and CX teams thro
 
 | Section | Focus |
 | --- | --- |
-| [Orientation](./orientation.md) | Quick tour of Perspective's architecture, roles, and success checklist. |
-| [Getting Started](./getting-started/index.md) | Launch your first study, invite participants, and understand core concepts. |
-| [Running Programs](./running-programs/index.md) | Design agents, manage participant groups, and embed interviews in your product. |
-| [Insights](./insights/index.md) | Analyze sessions, publish highlights, and monitor trust signals. |
-| [Operations](./operations/index.md) | Workspaces, permissions, and governance topics for admins. |
+| [Orientation](/docs/guide/orientation) | Quick tour of Perspective's architecture, roles, and success checklist. |
+| [Getting Started](/docs/guide/getting-started) | Launch your first study, invite participants, and understand core concepts. |
+| [Running Programs](/docs/guide/running-programs) | Design agents, manage participant groups, and embed interviews in your product. |
+| [Insights](/docs/guide/insights) | Analyze sessions, publish highlights, and monitor trust signals. |
+| [Operations](/docs/guide/operations) | Workspaces, permissions, and governance topics for admins. |
 
 Each article links to actionable checklists and workflows so you can move from experimentation to production quickly. If you are looking for developer integrations, jump to the [Build docs](/docs/build). For hands-on lessons and videos, head to [Training](/docs/training).
 
-Looking for product updates? Check [What's New](./whats-new.md).
+Looking for product updates? Check [What's New](/docs/guide/whats-new).

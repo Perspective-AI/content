@@ -8,8 +8,8 @@ Prefer to watch and follow along? Training collects every guided resource — fr
 
 ## Start learning
 
-- [Video Library](./lessons/index.md): quick tutorials covering outlines, participant flows, embeds, integrations, and more.
-- [Lesson Catalog](./lessons/catalog.md): durations, owners, and last-updated dates so you know what’s current.
+- [Video Library](/docs/training/lessons): quick tutorials covering outlines, participant flows, embeds, integrations, and more.
+- [Lesson Catalog](/docs/training/lessons/catalog): durations, owners, and last-updated dates so you know what’s current.
 - **Live workshops & deck downloads** _(coming soon)_: recordings and materials from customer enablement sessions.
 - **Checklists & certifications** _(coming soon)_: printable guides for onboarding new teammates.
 

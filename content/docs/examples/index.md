@@ -8,8 +8,8 @@ Use this section to grab ready-made blueprints. Every example shows the research
 
 ## Explore
 
-- [Use Case Library](/docs/use-cases/index.md): 30+ detailed playbooks across Product, CX, Research, Revenue, and Operations teams.
-- [Customer Stories](./customer-stories.md): draft pipeline + structure for publishing real deployments.
-- [Templates & Imports](./templates.md): placeholder catalog for outlines, prompts, and analysis packs.
+- [Use Case Library](/docs/use-cases): 30+ detailed playbooks across Product, CX, Research, Revenue, and Operations teams.
+- [Customer Stories](/docs/examples/customer-stories): draft pipeline + structure for publishing real deployments.
+- [Templates & Imports](/docs/examples/templates): placeholder catalog for outlines, prompts, and analysis packs.
 
 Pair these examples with the [Guide](/docs/guide) for execution details or the [Build docs](/docs/build) if a playbook calls for custom integrations.
