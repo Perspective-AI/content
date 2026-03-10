@@ -1,5 +1,6 @@
 ---
 title: Video Library
+description: Cataloge of training articles.
 nav_order: 6
 ---
 
