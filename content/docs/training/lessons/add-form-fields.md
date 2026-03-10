@@ -3,6 +3,7 @@ title: "Adding Form Fields to Research Outlines"
 description: "Capture standardized information during conversational interviews without disrupting natural flow."
 date: "2025-10-29"
 tags: ["getting-started", "research"]
+slug: /guide/training/lessons/add-form-fields
 thumbnail: /images/thumbnails/FormFieldsThumbnail.png
 nav_order: 2
 nav_display: true
