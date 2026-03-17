@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Life Transition & Decision-Making Support"
 description: "Create guided self-reflection processes that help you clarify your values, assess options, understand your motivations, and make confident decisions during significant life transitions."
 date: "2025-06-11"
 tags: [life transitions, decision making, personal reflection, life planning, major decisions]
-nav_order: 30
+nav_order: 32
 nav_display: true
 ---
 

@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Sales Process Optimization & Deal Accelera
 description: "Interview prospects, customers, and internal sales teams to identify friction points in the sales process, understand buyer decision-making patterns, and optimize deal progression strategies for shorter cycles and higher win rates."
 date: "2025-06-11"
 tags: [sales process optimization, deal acceleration, sales cycle, buyer journey, sales operations]
-nav_order: 12
+nav_order: 13
 nav_display: true
 ---
 

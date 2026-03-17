@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Design System Adoption & Usage Analysis"
 description: "Interview designers, developers, and product teams to understand design system usage patterns, identify adoption barriers, and optimize design system strategy for better consistency and efficiency across the organization."
 date: "2025-06-11"
 tags: [design system, design operations, design consistency, team collaboration, design adoption]
-nav_order: 19
+nav_order: 22
 nav_display: true
 ---
 

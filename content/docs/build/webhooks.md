@@ -2,17 +2,18 @@
 title: "Webhooks & Automations"
 description: "Subscribe to conversation and highlight events."
 nav_order: 3
+nav_display: false
 ---
 
 > Draft placeholder — verify payloads before publishing externally.
 
 ## Event types
 
-| Event | Trigger |
-| --- | --- |
-| `conversation.completed` | Interview or concierge session ends. |
-| `highlight.published` | A highlight page is set to public or updated. |
-| `trust.alert` | Conversation flagged for low-quality or risky content. |
+| Event                    | Trigger                                                |
+| ------------------------ | ------------------------------------------------------ |
+| `conversation.completed` | Interview or concierge session ends.                   |
+| `highlight.published`    | A highlight page is set to public or updated.          |
+| `trust.alert`            | Conversation flagged for low-quality or risky content. |
 
 ## Configure a webhook endpoint
 
@@ -51,4 +52,4 @@ Verify signatures using `X-Perspective-Signature` header (HMAC-SHA256 of the raw
 - Push concierge leads into HubSpot/CRM.
 - Create Jira tickets when evaluator scores drop below threshold.
 - Trigger Slack alerts for `trust.alert` to let humans review.
-More automation examples are tracked in [Automation Recipes](/docs/build/automation-recipes) (coming soon).
+  More automation examples are tracked in [Automation Recipes](/docs/build/automation-recipes) (coming soon).

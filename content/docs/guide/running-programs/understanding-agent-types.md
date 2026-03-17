@@ -1,9 +1,9 @@
 ---
-title: "Understanding Agent Types in Perspective AI"
+title: "Understanding Agent Types"
 description: "Learn about the three agent types—Interviewer, Concierge, and Evaluator—and choose the right one for your use case."
 date: "2025-11-04"
 tags: ["agents", "getting-started", "overview", "agent-types"]
-nav_order: 7
+nav_order: 5
 nav_display: true
 ---
 

@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Career Development & Growth Planning"
 description: "Develop self-reflection interviews that help you assess your career satisfaction, identify skill gaps, explore growth opportunities, and plan strategic career moves based on honest self-assessment."
 date: "2025-06-11"
 tags: [career development, career planning, professional growth, self-assessment, career reflection]
-nav_order: 29
+nav_order: 31
 nav_display: true
 ---
 

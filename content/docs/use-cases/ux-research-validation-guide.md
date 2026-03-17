@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for User Experience Research & Design Validati
 description: "Interview users, stakeholders, and customers to gather feedback on design concepts, prototypes, and existing interfaces—revealing usability issues, user preferences, and design improvement opportunities based on real user behavior rather than assumptions."
 date: "2025-06-11"
 tags: [user experience research, design validation, UX research, usability testing, design feedback]
-nav_order: 18
+nav_order: 21
 nav_display: true
 ---
 

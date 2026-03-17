@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Customer Journey Mapping & Experience Opti
 description: "Interview customers across different journey stages to understand their end-to-end experience, identify pain points and moments of delight, and optimize touchpoints for better customer satisfaction and business outcomes."
 date: "2025-06-11"
 tags: [customer journey mapping, customer experience, CX optimization, touchpoint analysis, customer satisfaction]
-nav_order: 21
+nav_order: 24
 nav_display: true
 ---
 

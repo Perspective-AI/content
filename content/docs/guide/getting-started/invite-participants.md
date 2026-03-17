@@ -3,7 +3,7 @@ title: "Inviting Participants to Your Research"
 description: "Learn how to invite participants to Perspective AI interviews using shareable links or direct email invitations from within the platform."
 date: "2025-11-03"
 tags: ["participants", "invitations", "recruiting", "how-to"]
-nav_order: 2
+nav_order: 3
 nav_display: true
 ---
 

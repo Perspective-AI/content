@@ -1,9 +1,9 @@
 ---
-title: "Creating Research Outlines in Perspective AI"
+title: "Creating Research Outlines"
 description: "Learn how to create and refine research outlines that guide Perspective AI to conduct effective user interviews aligned with your research goals."
 date: "2025-10-16"
 tags: ["research-outlines", "interviews", "getting-started", "user-research"]
-nav_order: 1
+nav_order: 2
 nav_display: true
 ---
 
@@ -30,15 +30,17 @@ These questions help you craft a focused research question that generates a usef
 Navigate to the research creation interface and enter a detailed research question. Be specific about who you want to interview and what you want to learn.
 
 **Example format:**
+
 ```
-I want to interview [target audience] about [specific topic] 
+I want to interview [target audience] about [specific topic]
 so that I can learn [desired outcome].
 ```
 
 **Sample question:**
+
 ```
-I want to interview existing customers about their experience using 
-our beta AI feature so that I can learn what we need to improve 
+I want to interview existing customers about their experience using
+our beta AI feature so that I can learn what we need to improve
 before launching.
 ```
 
@@ -55,6 +57,7 @@ Respond to clarifying questions to help the system understand your research obje
 Your generated outline includes several key elements:
 
 ### Research Type
+
 Based on your objectives, Perspective automatically determines the most appropriate research approach:
 
 **Exploratory** – Discovering problems, needs, and opportunities without preconceived solutions
@@ -72,22 +75,29 @@ You don't need to specify the research type—it's determined automatically to e
 **Note:** While the research type is automatically selected based on your goals, you can request a change if needed by telling Perspective which type you prefer. However, we generally don't recommend this, as the automatic classification is designed to match the methodology to your objectives. Only change the research type if you have specific methodological requirements.
 
 ### Description
+
 Clearly states what is being researched and by whom, providing context for the interview.
 
 ### Research Question
+
 The core question formulated to address the key business and user needs identified during planning.
 
 ### Goals
+
 The key objectives derived from your research question. These guide what the interview should accomplish.
 
 ### Participants
+
 A description of the target audience profile, including relevant demographic, behavioral, or firmographic criteria.
 
 ### Interview Guidelines
+
 Define the flow and tone instructions for the AI interviewer. Think of these as guardrails that shape how the interview agent conducts conversations.
 
 ### Optional Components
+
 Research outlines can also include:
+
 - **Mandatory questions** – specific questions that must be asked in every interview
 - **Resources** – reference materials for the interviewer
 - **Form fields** – structured data to collect from participants
@@ -101,6 +111,7 @@ See individual help articles for details on each component.
 After reviewing the initial outline, you can request modifications conversationally. Each change is evaluated and generates a new version of the outline.
 
 **Example changes:**
+
 - "I want to interview enterprise customers specifically"
 - "Add a goal about understanding feature adoption barriers"
 - "Make the interview tone more conversational and less formal"
@@ -108,6 +119,7 @@ After reviewing the initial outline, you can request modifications conversationa
 ### Test the interview yourself
 
 Try the interview as if you were a participant. This hands-on experience often reveals:
+
 - Questions that need clarification
 - Flow issues in the conversation
 - Missing topics or goals

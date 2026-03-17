@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Churn Analysis & Customer Exit Interviews"
 description: "Interview recently churned customers directly to understand their specific cancellation reasons, identify systemic issues, and develop targeted retention strategies based on actual churn experiences rather than assumptions."
 date: "2025-06-11"
 tags: [churn analysis, customer exit interviews, customer retention, customer success, churn prevention]
-nav_order: 13
+nav_order: 15
 nav_display: true
 ---
 

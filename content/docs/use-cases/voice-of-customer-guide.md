@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Voice of Customer Analysis & Feedback Inte
 description: "Conduct structured interviews with customers to gather comprehensive feedback about their experience, understand satisfaction drivers, and translate insights into actionable CX improvements that address real customer needs."
 date: "2025-06-11"
 tags: [voice of customer, customer feedback, CX analysis, customer insights, feedback integration]
-nav_order: 22
+nav_order: 25
 nav_display: true
 ---
 

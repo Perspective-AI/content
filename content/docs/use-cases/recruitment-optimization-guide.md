@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Recruitment & Hiring Process Optimization"
 description: "Interview recent hires, candidates who declined offers, and those who went through the hiring process to identify friction points, understand decision factors, and optimize recruitment strategies for better hiring outcomes and candidate satisfaction."
 date: "2025-06-11"
 tags: [recruitment optimization, hiring process, candidate experience, talent acquisition, HR optimization]
-nav_order: 16
+nav_order: 19
 nav_display: true
 ---
 

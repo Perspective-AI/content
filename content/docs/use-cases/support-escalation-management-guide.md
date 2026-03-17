@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Support Escalation & Complex Case Manageme
 description: "Interview customers with escalated cases, support agents handling complex issues, and escalation specialists to understand process effectiveness, identify improvement opportunities, and optimize case management for better outcomes."
 date: "2025-06-11"
 tags: [support escalation, complex case management, customer support, escalation process, case resolution]
-nav_order: 27
+nav_order: 29
 nav_display: true
 ---
 

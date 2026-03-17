@@ -3,7 +3,7 @@ title: "Creating Completion Flows for Conditional Routing"
 description: "Automatically route participants to different destinations at the end of interviews based on what was discussed, creating personalized next steps."
 date: "2025-11-04"
 tags: ["completion-flows", "conditional-logic", "automation", "wrap-up"]
-nav_order: 6
+nav_order: 4
 nav_display: true
 ---
 

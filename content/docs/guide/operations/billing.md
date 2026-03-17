@@ -2,6 +2,7 @@
 title: "Billing & Seat Management"
 description: "How Perspective handles plans, seats, and invoices."
 nav_order: 3
+nav_display: false
 ---
 
 Draft guidance for finance/ops while we finalize productized billing docs.
@@ -26,11 +27,11 @@ Draft guidance for finance/ops while we finalize productized billing docs.
 
 ## Forecasting usage
 
-| Metric | Where to find it | Owner |
-| --- | --- | --- |
-| Active agents per workspace | Workspace dashboard | Research ops |
-| Concierge conversation volume | Insights → Dashboards | CX ops |
-| Evaluator scoring volume | Analytics exports | Product ops |
+| Metric                        | Where to find it      | Owner        |
+| ----------------------------- | --------------------- | ------------ |
+| Active agents per workspace   | Workspace dashboard   | Research ops |
+| Concierge conversation volume | Insights → Dashboards | CX ops       |
+| Evaluator scoring volume      | Analytics exports     | Product ops  |
 
 ## Checklist before end of quarter
 

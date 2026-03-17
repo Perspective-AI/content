@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Accessibility & Inclusive Design Research"
 description: "Interview users with disabilities, accessibility advocates, and diverse user groups to understand accessibility barriers, inclusive design requirements, and user experience improvements that make products usable by everyone."
 date: "2025-06-11"
 tags: [accessibility research, inclusive design, disability advocacy, universal design, accessibility barriers]
-nav_order: 20
+nav_order: 23
 nav_display: true
 ---
 

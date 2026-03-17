@@ -3,7 +3,7 @@ title: "Integrating Perspective AI with User Interviews"
 description: "Automatically sync participant statuses between Perspective AI and User Interviews using link parameters to eliminate manual tracking work."
 date: "2025-11-04"
 tags: ["integrations", "user-interviews", "automation", "participant-management"]
-nav_order: 3
+nav_order: 11
 nav_display: true
 ---
 

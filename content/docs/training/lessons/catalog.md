@@ -2,6 +2,7 @@
 title: "Lesson Catalog"
 description: "Track every video/tutorial with duration, owner, and last update."
 nav_order: 1
+nav_display: false
 ---
 
 > Draft tracker. Update as you add new lessons so customers can see what’s current.

@@ -2,6 +2,7 @@
 title: "Customer Stories (Draft)"
 description: "Structure for publishing real deployments."
 nav_order: 2
+nav_display: false
 ---
 
 Use this template when turning internal wins into public proof.
@@ -17,9 +18,9 @@ Use this template when turning internal wins into public proof.
 
 ## Pipeline tracker
 
-| Customer | Status | Point person | Assets needed |
-| --- | --- | --- | --- |
-| Healthcare intake pilot | Drafting | Nate | Chart + quote |
-| Legal intake | Needs interview | Guy | Screenshot |
+| Customer                | Status          | Point person | Assets needed |
+| ----------------------- | --------------- | ------------ | ------------- |
+| Healthcare intake pilot | Drafting        | Nate         | Chart + quote |
+| Legal intake            | Needs interview | Guy          | Screenshot    |
 
 Once a story is published, link it here and tag the related use case so readers can jump between inspiration and step-by-step guides.

@@ -8,9 +8,9 @@ Launch your first Perspective program. This section walks through the foundation
 ## In this section
 
 - [Profile Setup](/docs/guide/getting-started/profile-setup)
-- [Create Research Outlines](/docs/guide/getting-started/create-research-outlines)
-- [Invite Participants](/docs/guide/getting-started/invite-participants)
-- [Analyze Interviews](/docs/guide/getting-started/analysis-sessions)
-- [Testing Your Flow](/docs/guide/getting-started/testing)
+- [Creating Research Outlines](/docs/guide/getting-started/create-research-outlines)
+- [Inviting Participants to Your Research](/docs/guide/getting-started/invite-participants)
+- [Conduct Analysis Sessions](/docs/guide/getting-started/analysis-sessions)
+<!-- - [Testing Your Flow](/docs/guide/getting-started/testing) -->
 
 Use these guides to get comfortable with the core product flows before layering on advanced automation.

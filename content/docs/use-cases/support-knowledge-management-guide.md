@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Support Knowledge Management & Self-Servic
 description: "Interview customers who use self-service resources and support agents who rely on knowledge systems to identify content gaps, usability issues, and optimization opportunities that improve both customer self-service success and agent efficiency."
 date: "2025-06-11"
 tags: [knowledge management, self-service, support optimization, knowledge base, customer service]
-nav_order: 26
+nav_order: 28
 nav_display: true
 ---
 

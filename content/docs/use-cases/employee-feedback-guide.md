@@ -3,7 +3,7 @@ title: "How to Use Perspective AI to Collect and Analyze Employee Feedback"
 description: "Transform scattered employee feedback into clear, actionable insights using AI-powered interviews that gather consistent, in-depth feedback and automatically analyze it for patterns, sentiment, and priority areas."
 date: "2025-06-11"
 tags: [employee feedback, HR analytics, workplace satisfaction, employee interviews, retention analysis]
-nav_order: 
+nav_order: 18
 nav_display: true
 ---
 
