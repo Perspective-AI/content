@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for User Onboarding & Activation Optimization"
 description: "Identify onboarding friction points, activation barriers, and 'aha moments' through interviews with new users, successful adopters, and those who churned during onboarding to optimize user activation."
 date: "2025-06-11"
 tags: [user onboarding, activation optimization, product management, user experience, customer success]
-nav_order: 5
+nav_order: 6
 nav_display: true
 ---
 

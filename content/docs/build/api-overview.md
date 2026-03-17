@@ -2,6 +2,7 @@
 title: "API Overview (Draft)"
 description: "Authentication, base URLs, and core resources."
 nav_order: 2
+nav_display: false
 ---
 
 > Draft placeholder — update once the public API surface is stable.
@@ -14,13 +15,13 @@ nav_order: 2
 
 ## Core resources (planned)
 
-| Resource | Methods | Description |
-| --- | --- | --- |
-| `/outlines` | GET, POST, PATCH | List, create, and update interview outlines. |
-| `/agents` | GET, POST, PATCH | Manage concierge/interviewer/evaluator agents. |
-| `/conversations` | GET | Fetch transcripts, metadata, trust scores. |
-| `/invites` | POST | Trigger invites or send reminders. |
-| `/highlights` | GET, POST | Publish or retrieve highlight pages. |
+| Resource         | Methods          | Description                                    |
+| ---------------- | ---------------- | ---------------------------------------------- |
+| `/outlines`      | GET, POST, PATCH | List, create, and update interview outlines.   |
+| `/agents`        | GET, POST, PATCH | Manage concierge/interviewer/evaluator agents. |
+| `/conversations` | GET              | Fetch transcripts, metadata, trust scores.     |
+| `/invites`       | POST             | Trigger invites or send reminders.             |
+| `/highlights`    | GET, POST        | Publish or retrieve highlight pages.           |
 
 ## Sample request
 

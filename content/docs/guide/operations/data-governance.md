@@ -2,6 +2,7 @@
 title: "Data Retention & Privacy"
 description: "Draft policy for transcripts, highlights, and exports."
 nav_order: 4
+nav_display: false
 ---
 
 Use this page to align legal, security, and research teams on how Perspective data is stored.
@@ -28,11 +29,11 @@ Use this page to align legal, security, and research teams on how Perspective da
 
 ## Incident response basics
 
-| Step | Owner |
-| --- | --- |
-| Identify abnormal access/export | Security/ops monitors | 
-| Lock affected workspace (read-only) | Admin | 
-| Notify legal + impacted customers | Exec sponsor | 
-| Document in incident log | Security | 
+| Step                                | Owner                 |
+| ----------------------------------- | --------------------- |
+| Identify abnormal access/export     | Security/ops monitors |
+| Lock affected workspace (read-only) | Admin                 |
+| Notify legal + impacted customers   | Exec sponsor          |
+| Document in incident log            | Security              |
 
 Fill in the exact owners and tooling once the security team finalizes the playbook.

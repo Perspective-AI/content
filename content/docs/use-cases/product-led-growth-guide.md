@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Product-Led Growth & Expansion Strategy"
 description: "Understand how customers naturally expand usage, share products with colleagues, and upgrade to higher tiers through interviews with power users and decision-makers to design product experiences that drive organic growth."
 date: "2025-06-11"
 tags: [product-led growth, expansion strategy, account expansion, viral growth, product management]
-nav_order: 6
+nav_order: 7
 nav_display: true
 ---
 

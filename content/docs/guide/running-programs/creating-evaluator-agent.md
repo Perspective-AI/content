@@ -3,7 +3,7 @@ title: "Creating an Evaluator Agent"
 description: "Transform boring surveys into engaging conversations that collect quantitative metrics while maintaining the warmth of qualitative research."
 date: "2025-11-04"
 tags: ["evaluator-agent", "surveys", "feedback", "how-to"]
-nav_order: 10
+nav_order: 8
 nav_display: true
 ---
 

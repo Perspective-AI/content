@@ -3,7 +3,7 @@ title: "Creating a Concierge Agent"
 description: "Build intelligent conversational experiences that efficiently collect structured information by inferring what they can and only asking what they must."
 date: "2025-11-04"
 tags: ["concierge-agent", "forms", "data-collection", "how-to"]
-nav_order: 9
+nav_order: 7
 nav_display: true
 ---
 

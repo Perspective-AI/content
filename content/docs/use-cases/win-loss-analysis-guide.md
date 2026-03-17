@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Win/Loss Analysis & Competitive Positionin
 description: "Systematically interview recent prospects (both wins and losses) to understand decision factors, competitive advantages/disadvantages, and positioning opportunities that improve close rates and sales effectiveness."
 date: "2025-06-11"
 tags: [win loss analysis, competitive positioning, sales optimization, deal analysis, sales enablement]
-nav_order: 10
+nav_order: 11
 nav_display: true
 ---
 

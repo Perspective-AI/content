@@ -2,6 +2,7 @@
 title: "What's New"
 description: "Rolling change log for Perspective releases."
 nav_order: 99
+nav_display: false
 ---
 
 > Draft structure — populate each release as it ships.
@@ -14,7 +15,7 @@ nav_order: 99
 
 ## How to use this page
 
-1. Keep entries short: *Problem → Improvement → Where to learn more*.
+1. Keep entries short: _Problem → Improvement → Where to learn more_.
 2. Link to docs/examples/training content that explains the change.
 3. Tag the impacted audience (e.g., Product, Dev, Ops).
 4. Archive quarterly into `/archive/` if the list gets too long.

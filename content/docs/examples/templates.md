@@ -2,17 +2,18 @@
 title: "Templates & Imports"
 description: "Reusable outlines, prompts, and analysis frameworks."
 nav_order: 3
+nav_display: false
 ---
 
 Draft placeholder for the template gallery.
 
 ## Outline templates
 
-| Name | Agent | Format | Link |
-| --- | --- | --- | --- |
-| Concierge — Healthcare Intake | Concierge | `.json` + instructions | _TODO_ |
-| Interviewer — Churn Post-Mortem | Interviewer | Outline snippet | _TODO_ |
-| Evaluator — Support QA | Evaluator | Rubric | _TODO_ |
+| Name                            | Agent       | Format                 | Link   |
+| ------------------------------- | ----------- | ---------------------- | ------ |
+| Concierge — Healthcare Intake   | Concierge   | `.json` + instructions | _TODO_ |
+| Interviewer — Churn Post-Mortem | Interviewer | Outline snippet        | _TODO_ |
+| Evaluator — Support QA          | Evaluator   | Rubric                 | _TODO_ |
 
 ## Analysis frameworks
 

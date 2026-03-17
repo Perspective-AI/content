@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Strategic Partnership & Channel Strategy"
 description: "Interview existing partners, potential partners, and customers to understand partnership needs, evaluate channel opportunities, and design mutually beneficial strategic relationships that drive business growth."
 date: "2025-06-11"
 tags: [strategic partnerships, channel strategy, business development, partnership management, channel optimization]
-nav_order: 8
+nav_order: 9
 nav_display: true
 ---
 

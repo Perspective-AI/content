@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Weekly/Monthly Performance & Goal Review"
 description: "Create structured self-interview guides that help you reflect on accomplishments, challenges, goal progress, and lessons learned to organize thoughts and create actionable insights for continuous improvement."
 date: "2025-06-11"
 tags: [personal reflection, performance review, goal tracking, self-assessment, productivity]
-nav_order: 28
+nav_order: 30
 nav_display: true
 ---
 

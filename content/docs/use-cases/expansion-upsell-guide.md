@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Expansion & Upsell Opportunity Identificat
 description: "Interview existing customers to understand their evolving needs, expansion triggers, and growth opportunities that align customer success with revenue expansion through value-driven upselling."
 date: "2025-06-11"
 tags: [customer expansion, upsell opportunities, account growth, customer success, revenue expansion]
-nav_order: 15
+nav_order: 17
 nav_display: true
 ---
 

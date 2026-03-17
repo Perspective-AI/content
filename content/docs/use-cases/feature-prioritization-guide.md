@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Feature Prioritization & Roadmap Validatio
 description: "Replace feature request chaos with systematic customer interviews that reveal true priorities, usage context, and willingness to pay for different capabilities to build data-driven product roadmaps."
 date: "2025-06-11"
 tags: [feature prioritization, product roadmap, product management, customer interviews, product validation]
-nav_order: 4
+nav_order: 5
 nav_display: true
 ---
 

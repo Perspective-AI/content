@@ -3,7 +3,7 @@ title: "Creating an Interviewer Agent"
 description: "Build AI-powered research agents that conduct deep, exploratory interviews using ethnographic techniques to uncover unexpected insights."
 date: "2025-11-04"
 tags: ["interviewer-agent", "qualitative-research", "exploratory-research", "how-to"]
-nav_order: 8
+nav_order: 6
 nav_display: true
 ---
 

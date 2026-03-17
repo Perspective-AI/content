@@ -3,7 +3,7 @@ title: "Embed Interviews on Your Website or App"
 description: "Deploy Perspective AI interviews directly on your website, in your app, or on landing pages using customizable embed options."
 date: "2025-12-11"
 tags: ["embed", "integration", "deployment", "website"]
-nav_order: 11
+nav_order: 10
 nav_display: true
 ---
 

@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Sales Demo & Call Preparation"
 description: "Interview prospects who have scheduled sales calls using standard qualification frameworks (BANT, MEDDIC) to gather key information that enables sales teams to customize their pitch, demo, and approach for higher conversion rates."
 date: "2025-06-11"
 tags: [sales demo preparation, call prep, sales qualification, BANT, MEDDIC, sales enablement]
-nav_order: 11
+nav_order: 12
 nav_display: true
 ---
 

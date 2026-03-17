@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Digital Transformation & Technology Strate
 description: "Conduct interviews with internal stakeholders, technology users, and transformation leaders to understand current pain points, technology readiness, and change management requirements for successful digital transformation initiatives."
 date: "2025-06-11"
 tags: [digital transformation, technology strategy, change management, IT strategy, innovation management]
-nav_order: 9
+nav_order: 10
 nav_display: true
 ---
 

@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Market Entry & Expansion Strategy"
 description: "Replace market entry assumptions with systematic interviews of potential customers, partners, and industry experts to validate opportunity size, competitive landscape, and go-to-market approach for successful market expansion."
 date: "2025-06-11"
 tags: [market entry, expansion strategy, strategic planning, market research, business development]
-nav_order: 7
+nav_order: 8
 nav_display: true
 ---
 

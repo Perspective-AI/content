@@ -3,7 +3,7 @@ title: "Using URL Parameters to Customize Interviews"
 description: "Pass contextual information through URL parameters to personalize interview experiences, enable branching logic, and eliminate repetitive questions."
 date: "2025-11-04"
 tags: ["url-parameters", "customization", "branching-logic", "advanced-features"]
-nav_order: 5
+nav_order: 3
 nav_display: true
 ---
 

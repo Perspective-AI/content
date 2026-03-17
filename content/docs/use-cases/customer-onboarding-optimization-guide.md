@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Customer Onboarding & Time-to-Value Optimi
 description: "Conduct interviews with new customers, successful adopters, and those who struggled during onboarding to identify friction points, accelerate value realization, and improve customer success outcomes."
 date: "2025-06-11"
 tags: [customer onboarding, time to value, customer success, onboarding optimization, customer adoption]
-nav_order: 14
+nav_order: 16
 nav_display: true
 ---
 

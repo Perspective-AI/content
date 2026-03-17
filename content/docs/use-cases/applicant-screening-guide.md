@@ -3,7 +3,7 @@ title: "How to Use Perspective AI for Applicant Screening & Pre-Interview Assess
 description: "Interview job applicants who have applied for positions using structured screening frameworks to gather key qualification information, assess cultural fit, and enable hiring teams to make better interview decisions and improve overall hiring outcomes."
 date: "2025-06-11"
 tags: [applicant screening, pre-interview assessment, hiring qualification, talent screening, recruitment efficiency]
-nav_order: 17
+nav_order: 20
 nav_display: true
 ---
 
